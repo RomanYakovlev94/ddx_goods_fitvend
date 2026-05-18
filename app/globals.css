@@ -1,0 +1,377 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  background: #15191b;
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+
+body.modal-open {
+  overflow: hidden;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.exact-shell {
+  position: relative;
+  width: min(100vw, 450px);
+  min-height: 100vh;
+  margin: 0 auto;
+  overflow: hidden;
+  background: #f2f2f2;
+}
+
+.exact-screen {
+  display: block;
+  width: 100%;
+  height: auto;
+  user-select: none;
+}
+
+.home-vending-hotspot,
+.catalog-back-hotspot,
+.catalog-card-hotspot,
+.modal-close-hotspot {
+  position: absolute;
+  display: block;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: transparent;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.home-vending-hotspot span,
+.catalog-back-hotspot span,
+.catalog-card-hotspot span,
+.modal-close-hotspot span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.home-vending-hotspot {
+  left: 25.8%;
+  top: 35.7%;
+  width: 48.7%;
+  height: 29.8%;
+}
+
+.catalog-page {
+  position: relative;
+  width: min(100vw, 450px);
+  height: 100vh;
+  height: 100dvh;
+  margin: 0 auto;
+  padding-bottom: 46px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: #f2f2f2 url("/assets/catalog-background.png") top center / 100% auto repeat-y;
+}
+
+.catalog-heading {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  height: 150px;
+  background: #29d6d4;
+  box-shadow: 0 5px 16px rgba(8, 36, 45, 0.06);
+}
+
+.catalog-header-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  user-select: none;
+}
+
+.catalog-back-area {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 82px;
+  height: 150px;
+  text-decoration: none;
+}
+
+.catalog-back-area span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.goods-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 42px 26px;
+  padding: 64px 33px 0;
+}
+
+.good-card {
+  position: relative;
+  display: grid;
+  grid-template-rows: 171px auto;
+  width: 100%;
+  min-height: 243px;
+  padding: 21px 19px 15px;
+  border: 0;
+  background: url("/assets/catalog-card-bg.png") center / 100% 100% no-repeat;
+  color: inherit;
+  cursor: pointer;
+  text-align: left;
+  transition: transform 160ms ease;
+}
+
+.good-card:hover {
+  transform: translateY(-2px);
+}
+
+.good-image-frame {
+  display: grid;
+  place-items: center;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.good-image {
+  display: block;
+  width: 132px;
+  height: 132px;
+  object-fit: contain;
+  transform: rotate(90deg);
+  transform-origin: center;
+}
+
+.good-copy {
+  display: grid;
+  align-content: end;
+  min-width: 0;
+  color: #073746;
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  line-height: 1.08;
+}
+
+.good-copy h2 {
+  display: -webkit-box;
+  margin: 0;
+  overflow: hidden;
+  font-size: 10.7px;
+  font-weight: 800;
+  letter-spacing: 0;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.title-accent {
+  color: #ff6a21;
+  font-weight: 900;
+}
+
+.title-brand,
+.title-rest {
+  display: block;
+}
+
+.product-modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  display: grid;
+  place-items: start center;
+  overflow: hidden;
+  background: rgba(6, 25, 31, 0.68);
+}
+
+.product-modal-shell {
+  position: relative;
+  width: min(100vw, 450px);
+  height: 100vh;
+  height: 100dvh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: #f2f2f2 url("/assets/catalog-background.png") top center / 100% auto repeat-y;
+}
+
+.modal-heading {
+  position: sticky;
+}
+
+.modal-close-button {
+  position: absolute;
+  right: 15px;
+  top: 12px;
+  z-index: 2;
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: 2px solid #073746;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.78);
+  color: #073746;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.product-detail-card {
+  position: relative;
+  width: 379px;
+  min-height: 637px;
+  margin: 62px auto 34px;
+  padding: 28px 29px 38px;
+  background: url("/assets/product-detail-card-bg.png") top center / 100% 100% no-repeat;
+}
+
+.product-detail-top {
+  display: grid;
+  grid-template-columns: 108px 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+.detail-image-frame {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  place-items: center;
+  width: 92px;
+  height: 178px;
+  overflow: visible;
+}
+
+.detail-product-image {
+  display: block;
+  width: 148px;
+  height: 148px;
+  object-fit: contain;
+  transform: rotate(90deg);
+  transform-origin: center;
+}
+
+.product-detail-top h2 {
+  position: relative;
+  z-index: 2;
+  margin: 22px 0 0;
+  color: #073746;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 1.17;
+  letter-spacing: 0;
+}
+
+.detail-bubble {
+  display: grid;
+  place-items: center;
+  width: 290px;
+  min-height: 152px;
+  margin: -42px auto 28px 54px;
+  padding: 27px 54px 25px;
+  background: url("/assets/product-detail-bubble.png") center / 100% 100% no-repeat;
+}
+
+.product-detail-top + .detail-info {
+  margin-top: 34px;
+}
+
+.detail-bubble p {
+  max-height: 82px;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  color: #ffffff;
+  font-size: 9.4px;
+  font-weight: 800;
+  line-height: 1.08;
+  scrollbar-width: thin;
+}
+
+.detail-info {
+  padding: 0 1px;
+  color: #111111;
+}
+
+.detail-info h3 {
+  margin: 18px 0 7px;
+  color: #073746;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 1.15;
+}
+
+.detail-info h3:first-child {
+  margin-top: 0;
+}
+
+.detail-info p {
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  font-size: 12.5px;
+  font-weight: 700;
+  line-height: 1.18;
+}
+
+.detail-cpf {
+  max-height: 74px;
+  color: #ff6a21;
+  font-weight: 900;
+  scrollbar-width: thin;
+}
+
+.detail-composition {
+  max-height: 176px;
+  scrollbar-width: thin;
+}
+
+@media (max-width: 380px) {
+  .goods-grid {
+    gap: 28px 16px;
+    padding: 44px 22px 0;
+  }
+
+  .good-card {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .product-detail-card {
+    width: calc(100% - 44px);
+    margin-top: 44px;
+    padding-left: 22px;
+    padding-right: 22px;
+  }
+
+  .product-detail-top {
+    grid-template-columns: 96px 1fr;
+    gap: 14px;
+  }
+
+  .detail-bubble {
+    width: 265px;
+    min-height: 139px;
+    margin-left: 42px;
+    padding-left: 46px;
+    padding-right: 46px;
+  }
+}

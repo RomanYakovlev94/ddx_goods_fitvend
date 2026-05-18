@@ -1,0 +1,4786 @@
+[
+  {
+    "id": "617f3bbd-b414-4b0e-a96c-f225a98e7b9d",
+    "vendorcode": "4610169568516",
+    "taste": "фундук",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f7dd820e-189c-47e8-a9cb-486447288260-1776671572679.jpg",
+    "img_name": "f7dd820e-189c-47e8-a9cb-486447288260-1776671572679.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "613a244e-f78e-4f0b-84bd-dfd4cecbecdc",
+    "vendorcode": "4607065001445",
+    "taste": "карамель, арахис и нуга",
+    "img_path": "https://vd.fitsklad.ru/photos/good/aff9e196-ecf9-47b4-8b15-cf1afdf9f75d-1760002335309.png",
+    "img_name": "aff9e196-ecf9-47b4-8b15-cf1afdf9f75d-1760002335309.png",
+    "is_adult": false,
+    "brand": {
+      "id": "ec742138-5890-47e6-bf93-d1de6164215f",
+      "name": "Сникерс"
+    },
+    "nameseria": {
+      "id": "4f011eb7-1118-4557-8a11-17cbd561bc82",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "8fa4b147-1cc5-4e5d-9d19-c9c3539570fc",
+    "vendorcode": "4610169568554",
+    "taste": "фисташка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/bb465599-74c1-4405-b690-f9914661d362-1776671619235.jpg",
+    "img_name": "bb465599-74c1-4405-b690-f9914661d362-1776671619235.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "402e19e1-a63a-4a4e-b3c2-2343b61d9e8f",
+    "vendorcode": "34433443",
+    "taste": "Тортик  Боярушка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b34b8d34-bc92-42c3-b03f-16c6e24c8219-1777716120882.webp",
+    "img_name": "b34b8d34-bc92-42c3-b03f-16c6e24c8219-1777716120882.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "07ebd5b9-839c-473a-a2c3-19791b1aed83",
+      "name": "Тортик  Боярушка"
+    },
+    "nameseria": {
+      "id": "4b89ff33-6010-4cdb-b824-1d9f71d4c0f0",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "cbed12c9-b0a0-403c-801d-b7969e1ed382",
+    "vendorcode": "4680089891322",
+    "taste": "Брауни горячий шоколад",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f285d224-69d9-41c7-96a3-412c6a12aa14-1759997554456.webp",
+    "img_name": "f285d224-69d9-41c7-96a3-412c6a12aa14-1759997554456.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "fb181423-52a5-4d9a-b125-995241ab8bca",
+      "name": " FitnesSHOCK"
+    },
+    "nameseria": {
+      "id": "d200799e-0d81-4f69-acc3-ab97016c5a16",
+      "name": "Кондитерское изделие"
+    }
+  },
+  {
+    "id": "c9939f33-1080-4324-bbd0-f1664adca871",
+    "vendorcode": "4627160774105",
+    "taste": " Тропический вкус",
+    "img_path": "https://vd.fitsklad.ru/photos/good/643b06a1-f486-4d47-8eeb-ab52b1b0c3a1-1759828628647.webp",
+    "img_name": "643b06a1-f486-4d47-8eeb-ab52b1b0c3a1-1759828628647.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "27a7f8af-6636-424e-b982-a569d7939217",
+      "name": "My Element"
+    },
+    "nameseria": {
+      "id": "5323bd98-0f00-4e5c-8483-bf3e7341f9e1",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "a4f0965f-0b9c-4910-9629-38ebedeba2e1",
+    "vendorcode": "4627160774099",
+    "taste": "Ягодный вкус",
+    "img_path": "https://vd.fitsklad.ru/photos/good/000f6e42-ea0a-41e1-88eb-5935d3092bb3-1759828496501.webp",
+    "img_name": "000f6e42-ea0a-41e1-88eb-5935d3092bb3-1759828496501.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "27a7f8af-6636-424e-b982-a569d7939217",
+      "name": "My Element"
+    },
+    "nameseria": {
+      "id": "5323bd98-0f00-4e5c-8483-bf3e7341f9e1",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "9ef2b276-c9d8-4466-9b21-7138739af44f",
+    "vendorcode": "4627160774112",
+    "taste": "Бабл-гам",
+    "img_path": "https://vd.fitsklad.ru/photos/good/83946cb0-f3a2-4637-9616-988844785e62-1759828822680.webp",
+    "img_name": "83946cb0-f3a2-4637-9616-988844785e62-1759828822680.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "27a7f8af-6636-424e-b982-a569d7939217",
+      "name": "My Element"
+    },
+    "nameseria": {
+      "id": "5323bd98-0f00-4e5c-8483-bf3e7341f9e1",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "8b448be8-aaf0-4272-9b1d-e86983da645d",
+    "vendorcode": "4627160774075",
+    "taste": "Оригинальный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/01726071-ec20-40bc-aa28-584013cdda4d-1759150624502.webp",
+    "img_name": "01726071-ec20-40bc-aa28-584013cdda4d-1759150624502.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "27a7f8af-6636-424e-b982-a569d7939217",
+      "name": "My Element"
+    },
+    "nameseria": {
+      "id": "5323bd98-0f00-4e5c-8483-bf3e7341f9e1",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "30c56a5e-408e-4f6d-8c94-63df3798a43d",
+    "vendorcode": "4673748982172",
+    "taste": "Без вкуса",
+    "img_path": "https://vd.fitsklad.ru/photos/good/dc37276f-a924-4902-9826-f9969abac248-1759912917388.webp",
+    "img_name": "dc37276f-a924-4902-9826-f9969abac248-1759912917388.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "0fdae49f-594c-4b0f-8420-31114c5977f2",
+      "name": "Моя стихия"
+    },
+    "nameseria": {
+      "id": "6b5f2bc0-d70f-4f85-ae3c-c77dc093e935",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "172054e9-2e97-40f3-a430-2b515730db34",
+    "vendorcode": "46025418",
+    "taste": "цельный фундук, карамель, нуга",
+    "img_path": "https://vd.fitsklad.ru/photos/good/0ad832bd-cf85-4a91-ad15-9b70afa4997d-1760024271450.webp",
+    "img_name": "0ad832bd-cf85-4a91-ad15-9b70afa4997d-1760024271450.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "4b655ac5-0434-4a80-88c0-e4b9cad2c7c7",
+      "name": "Nuts"
+    },
+    "nameseria": {
+      "id": "fa1e024e-40c6-42b6-87cd-4ed4abbb1000",
+      "name": "Мегабайт"
+    }
+  },
+  {
+    "id": "f1441844-1219-4406-b380-0e3fc6711bb9",
+    "vendorcode": "11122233",
+    "taste": "кетчуп",
+    "img_path": "https://vd.fitsklad.ru/photos/good/eb620d73-1d0e-4a7a-a75d-966a7d4b7f58-1777301451544.webp",
+    "img_name": "eb620d73-1d0e-4a7a-a75d-966a7d4b7f58-1777301451544.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "c162ba52-b9fc-45f5-b668-cf5c00130ab9",
+    "vendorcode": "22222222",
+    "taste": "банан",
+    "img_path": "https://vd.fitsklad.ru/photos/good/e9a99335-c613-4efd-8e8a-077bca8485b6-1777314198252.webp",
+    "img_name": "e9a99335-c613-4efd-8e8a-077bca8485b6-1777314198252.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b8c36523-bf4b-4b67-b02f-299429aa361b",
+      "name": "ЧокоПай"
+    },
+    "nameseria": {
+      "id": "562b1302-e2ce-4ba6-adcc-5464ac370cd2",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "a2cdaca8-946c-49ca-b55b-262248cc256f",
+    "vendorcode": "12121212",
+    "taste": "шоколадно-молочная",
+    "img_path": "https://vd.fitsklad.ru/photos/good/e93bcceb-fcf4-4f3f-b742-9e6e41582f4e-1777314538480.webp",
+    "img_name": "e93bcceb-fcf4-4f3f-b742-9e6e41582f4e-1777314538480.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "a37097f1-68bd-40b1-81da-ca2feeb793f6",
+      "name": "веселая телочка"
+    },
+    "nameseria": {
+      "id": "a2db3a14-99ee-4a16-8e1f-8ba506bb8db8",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "ec55a465-ea28-4529-bd27-6bbfce2bb573",
+    "vendorcode": "4607176441086",
+    "taste": "клубника",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f1205948-41fb-4904-b92c-276a34ba9c5a-1777314864885.webp",
+    "img_name": "f1205948-41fb-4904-b92c-276a34ba9c5a-1777314864885.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b8c36523-bf4b-4b67-b02f-299429aa361b",
+      "name": "ЧокоПай"
+    },
+    "nameseria": {
+      "id": "562b1302-e2ce-4ba6-adcc-5464ac370cd2",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "ec73f126-6b47-4e56-9a96-b1d51876a7e4",
+    "vendorcode": "12312345",
+    "taste": "сгущенка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/57986dc8-447c-419a-9de5-b07d77d2c6d2-1777315087068.webp",
+    "img_name": "57986dc8-447c-419a-9de5-b07d77d2c6d2-1777315087068.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e75d8d93-0229-4e62-8f0c-f7bead42d346",
+      "name": "яшкино"
+    },
+    "nameseria": {
+      "id": "42ca7e9b-fcb1-4f79-93c3-c96dcfb9df13",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "d6e94da8-8fce-4082-8bcf-ebc658e46919",
+    "vendorcode": "45454545",
+    "taste": "вареная сгущенка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/58c6ca75-6512-43d8-98ba-225c70a3556f-1778155317147.jpg",
+    "img_name": "58c6ca75-6512-43d8-98ba-225c70a3556f-1778155317147.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "4e107beb-4320-44c7-83d6-70910d6512a5",
+      "name": "пряник"
+    },
+    "nameseria": {
+      "id": "88713b40-f5e8-44ac-bdb6-fb5a675b3391",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "839ceb49-bdcc-4468-8495-cc70256b0db5",
+    "vendorcode": "45456767",
+    "taste": "топленое молоко",
+    "img_path": "https://vd.fitsklad.ru/photos/good/6c1f3423-7c89-4fff-b1ab-d965cbebeee4-1777315653875.webp",
+    "img_name": "6c1f3423-7c89-4fff-b1ab-d965cbebeee4-1777315653875.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1a468192-cabc-48bc-9712-0ca43d6409c9",
+      "name": "вафли"
+    },
+    "nameseria": {
+      "id": "0875434c-8f55-477c-b659-36520bc22da3",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "d28843be-edad-4293-b6e7-c35af3bc9dab",
+    "vendorcode": "4607015235777",
+    "taste": "вишня",
+    "img_path": "https://vd.fitsklad.ru/photos/good/dad4af57-8a24-4d11-bbea-469f4404421c-1777315799860.webp",
+    "img_name": "dad4af57-8a24-4d11-bbea-469f4404421c-1777315799860.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e75d8d93-0229-4e62-8f0c-f7bead42d346",
+      "name": "яшкино"
+    },
+    "nameseria": {
+      "id": "42ca7e9b-fcb1-4f79-93c3-c96dcfb9df13",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "d526e241-f223-4db1-ad56-ba4e0ed9f22a",
+    "vendorcode": "54455445",
+    "taste": "кокосовый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/8a181751-ee94-4c9a-85cf-988f67a6eecc-1777716299146.webp",
+    "img_name": "8a181751-ee94-4c9a-85cf-988f67a6eecc-1777716299146.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "ca7fec41-f6e1-41b0-867c-4127ef75f61a",
+      "name": "Мини-тарты"
+    },
+    "nameseria": {
+      "id": "6fd3ab48-4cf5-47b4-ae2a-5d3cb8cf7a36",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "f4bfe0f7-6a6a-46ad-985d-1447c97a30f7",
+    "vendorcode": "7622201696344",
+    "taste": "Белый шок. миндаль с кокосом",
+    "img_path": "https://vd.fitsklad.ru/photos/good/7b1c7997-66a0-4c30-bfad-36dec114dcc5-1760020748352.webp",
+    "img_name": "7b1c7997-66a0-4c30-bfad-36dec114dcc5-1760020748352.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "f2373ec9-0497-4e9a-b7bb-0f8cd19d773a",
+      "name": "Альпен Голд"
+    },
+    "nameseria": {
+      "id": "2f3232b3-ce87-4ae9-96f6-97c089b672f1",
+      "name": "Шоколад"
+    }
+  },
+  {
+    "id": "0d11f926-32a6-425b-ab08-05f786238540",
+    "vendorcode": "54455446",
+    "taste": "Карамельно-арахисовая",
+    "img_path": "https://vd.fitsklad.ru/photos/good/de419c2e-8012-4d3e-8b5e-347f1c33fb00-1777716424682.webp",
+    "img_name": "de419c2e-8012-4d3e-8b5e-347f1c33fb00-1777716424682.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "ca7fec41-f6e1-41b0-867c-4127ef75f61a",
+      "name": "Мини-тарты"
+    },
+    "nameseria": {
+      "id": "6fd3ab48-4cf5-47b4-ae2a-5d3cb8cf7a36",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "15a5c194-7133-47a0-8892-2a818a98941f",
+    "vendorcode": "65785678",
+    "taste": "земляника",
+    "img_path": "https://vd.fitsklad.ru/photos/good/df81c871-053c-40de-b6ad-2dbb0b9a3de9-1777716580635.webp",
+    "img_name": "df81c871-053c-40de-b6ad-2dbb0b9a3de9-1777716580635.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1a468192-cabc-48bc-9712-0ca43d6409c9",
+      "name": "вафли"
+    },
+    "nameseria": {
+      "id": "0875434c-8f55-477c-b659-36520bc22da3",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "7e2202e7-63ea-4e58-a28f-0c971aa8e370",
+    "vendorcode": "23123213",
+    "taste": "сгущенка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/43ab4eb3-9ea6-44b8-bb2c-73579a69621d-1777716731460.webp",
+    "img_name": "43ab4eb3-9ea6-44b8-bb2c-73579a69621d-1777716731460.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1a468192-cabc-48bc-9712-0ca43d6409c9",
+      "name": "вафли"
+    },
+    "nameseria": {
+      "id": "0875434c-8f55-477c-b659-36520bc22da3",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "0a1dfd96-0eea-4185-a4e7-19ad11bd9bf9",
+    "vendorcode": "34908765",
+    "taste": "сдоба",
+    "img_path": "https://vd.fitsklad.ru/photos/good/e54b5f4a-22c0-40f7-9812-07d0d3e0bd7a-1777832114752.webp",
+    "img_name": "e54b5f4a-22c0-40f7-9812-07d0d3e0bd7a-1777832114752.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "d70901aa-ae17-4697-81e2-01cc6703a6a8",
+      "name": "Коржик молочный"
+    },
+    "nameseria": {
+      "id": "98c3863a-87eb-4e01-84fc-eeca77215fb1",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "5d0325c1-f2de-4c91-84ae-a053008dd535",
+    "vendorcode": "4690329014169",
+    "taste": "Манго сушеное",
+    "img_path": "https://vd.fitsklad.ru/photos/good/cdbdccd6-72cf-4ed0-9d60-cc2f9b866314-1760018081093.webp",
+    "img_name": "cdbdccd6-72cf-4ed0-9d60-cc2f9b866314-1760018081093.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "43930c52-85e6-44c1-8540-9ec3a24ad94c",
+      "name": "Good Fruit"
+    },
+    "nameseria": {
+      "id": "c277663e-4d04-4c10-8315-d501b945c7f2",
+      "name": "Сухофрукты"
+    }
+  },
+  {
+    "id": "6e8e2693-3c4c-4b05-83b2-aa58f9bb54da",
+    "vendorcode": "4600494521768",
+    "taste": "оригинальный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/84c97121-67c4-4b00-92a2-a4f084b2ff83-1777886506168.webp",
+    "img_name": "84c97121-67c4-4b00-92a2-a4f084b2ff83-1777886506168.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "69bc4c4f-56d9-414a-83bd-ade3c22c7277",
+      "name": "Драйв Ми"
+    },
+    "nameseria": {
+      "id": "721253e2-0a04-410e-b86a-9159976cc863",
+      "name": "Энергетики "
+    }
+  },
+  {
+    "id": "2050783f-be47-4cb0-8bae-2a0f03979719",
+    "vendorcode": "4650075427736",
+    "taste": "кола",
+    "img_path": "https://vd.fitsklad.ru/photos/good/9b5eaf63-fea8-4dd5-b048-816ffcd45af5-1777903721743.webp",
+    "img_name": "9b5eaf63-fea8-4dd5-b048-816ffcd45af5-1777903721743.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b7821c22-3738-4d56-9717-326c0e32c53f",
+      "name": "добрый"
+    },
+    "nameseria": {
+      "id": "7deee4d5-7f64-4370-9c06-99493260d908",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "08007142-9346-43d3-8a4c-e79ee8e0a5e4",
+    "vendorcode": "4607065730109",
+    "taste": "белый шоколад",
+    "img_path": "https://vd.fitsklad.ru/photos/good/ee4adcab-9d78-4f95-8c68-4ff2426266dd-1777911940185.webp",
+    "img_name": "ee4adcab-9d78-4f95-8c68-4ff2426266dd-1777911940185.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "f03b7173-178c-4728-af08-d62dec23e11e",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "a8cd51fa-448e-49c7-943c-8d89eab35e79",
+    "vendorcode": "45679008",
+    "taste": "банан ",
+    "img_path": "https://vd.fitsklad.ru/photos/good/0f12edac-974d-4d11-a4e6-150885ac5aff-1777964641999.webp",
+    "img_name": "0f12edac-974d-4d11-a4e6-150885ac5aff-1777964641999.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "9cb45352-6ef7-4145-a37d-6103199cf662",
+      "name": "Милкис"
+    },
+    "nameseria": {
+      "id": "a0996da8-e179-4276-a0f9-f9ad3f954de8",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "a7491a2e-40e3-4656-aff0-126f90a1d176",
+    "vendorcode": "4607051352834",
+    "taste": "Фруктовая смесь",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b061f090-25dc-4c7a-b390-1e71f3a931b0-1766566318227.png",
+    "img_name": "b061f090-25dc-4c7a-b390-1e71f3a931b0-1766566318227.png",
+    "is_adult": false,
+    "brand": {
+      "id": "f156fa36-0e89-46b3-b699-2b2115256c0b",
+      "name": "Бит"
+    },
+    "nameseria": {
+      "id": "229c9175-ad7f-44d5-be4d-63fb6dd9a98f",
+      "name": "Сухофрукты"
+    }
+  },
+  {
+    "id": "5f7284aa-1013-403a-b8da-db4d46392a70",
+    "vendorcode": "12674539",
+    "taste": "сдобное",
+    "img_path": "https://vd.fitsklad.ru/photos/good/03753cd1-95b2-4131-ad67-32010bc187f9-1777315987088.webp",
+    "img_name": "03753cd1-95b2-4131-ad67-32010bc187f9-1777315987088.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e75d8d93-0229-4e62-8f0c-f7bead42d346",
+      "name": "яшкино"
+    },
+    "nameseria": {
+      "id": "42ca7e9b-fcb1-4f79-93c3-c96dcfb9df13",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "861a54d3-d5ee-4cde-9a4f-266a139e1536",
+    "vendorcode": "23423445",
+    "taste": "шоколад",
+    "img_path": "https://vd.fitsklad.ru/photos/good/4ca5e32b-a031-481c-9816-288580fcd594-1777316243166.webp",
+    "img_name": "4ca5e32b-a031-481c-9816-288580fcd594-1777316243166.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "d8f13da0-9c5b-4ec7-8753-be64ab7feba9",
+      "name": "MIRAI"
+    },
+    "nameseria": {
+      "id": "81a1c3c4-75df-4302-a9f3-9d99a4633288",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "3a381ab0-ab70-4e73-b17e-8fc54e3100f6",
+    "vendorcode": "45678901",
+    "taste": "клубника",
+    "img_path": "https://vd.fitsklad.ru/photos/good/437444d6-96d5-4f21-8306-ef7c7f2369fa-1777316474843.webp",
+    "img_name": "437444d6-96d5-4f21-8306-ef7c7f2369fa-1777316474843.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "29f17ac9-8a55-4922-a437-12ceb6a1db09",
+      "name": "Ковис"
+    },
+    "nameseria": {
+      "id": "fa4f7813-faa7-420a-bfe5-6f9e131ea7e2",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "ce78de6f-9636-4721-aa53-e6ed48103160",
+    "vendorcode": "7622202203893",
+    "taste": "сгущенка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/082a1fa5-b0c6-4320-944d-dc78c3a68059-1777316812252.webp",
+    "img_name": "082a1fa5-b0c6-4320-944d-dc78c3a68059-1777316812252.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "ac972409-aaff-4567-a44f-8a5adc013757",
+      "name": "7Days"
+    },
+    "nameseria": {
+      "id": "98025531-eca8-4a4d-a4ea-20c72e9b745f",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "22d6bcc4-1e20-43e2-a5b2-ec0ddcfcba3b",
+    "vendorcode": "4600068050786",
+    "taste": "клубника",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b4496eca-e860-4219-b871-df886d081eb3-1777317441938.webp",
+    "img_name": "b4496eca-e860-4219-b871-df886d081eb3-1777317441938.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "cf24c6dc-3121-4932-833f-58295da441f6",
+      "name": "очаково"
+    },
+    "nameseria": {
+      "id": "fd2fa5d7-5988-4a00-ab35-e34ef1e1a960",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "7fc10e42-b640-4c4f-981a-a8cc114baee6",
+    "vendorcode": "4600068050793",
+    "taste": "освежающий",
+    "img_path": "https://vd.fitsklad.ru/photos/good/869d7bb5-d3f4-4112-9c6b-f3b9702a87bc-1777317545597.webp",
+    "img_name": "869d7bb5-d3f4-4112-9c6b-f3b9702a87bc-1777317545597.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "cf24c6dc-3121-4932-833f-58295da441f6",
+      "name": "очаково"
+    },
+    "nameseria": {
+      "id": "fd2fa5d7-5988-4a00-ab35-e34ef1e1a960",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "77712c36-82bc-4b6c-9d40-9eb93d445822",
+    "vendorcode": "45673290",
+    "taste": "апельсин",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f17ad309-3c93-4f7d-b5e2-c211b5194656-1777317143177.webp",
+    "img_name": "f17ad309-3c93-4f7d-b5e2-c211b5194656-1777317143177.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "2451eecf-f311-423f-a81e-247a12bd288f",
+      "name": "палпи"
+    },
+    "nameseria": {
+      "id": "c93beadb-8a9b-4885-a271-9e80b3880c92",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "2bc30d93-112e-460e-863a-0b34e2384e92",
+    "vendorcode": "7622210505996",
+    "taste": "АПЕЛЬСИН",
+    "img_path": "https://vd.fitsklad.ru/photos/good/8073729c-a1e3-47d9-956f-f5c02da66be2-1760026612805.webp",
+    "img_name": "8073729c-a1e3-47d9-956f-f5c02da66be2-1760026612805.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "efc75d0a-77f7-4b2b-8265-f21dba4cfc53",
+      "name": "Halls"
+    },
+    "nameseria": {
+      "id": "14bb62a6-4c55-43f7-b454-654c7052f5c3",
+      "name": "КАРАМЕЛЬ ЛЕДЕНЕЦ"
+    }
+  },
+  {
+    "id": "7523089d-431d-4b3b-90b5-ba4442c2a16d",
+    "vendorcode": "4600068064035",
+    "taste": "квас",
+    "img_path": "https://vd.fitsklad.ru/photos/good/a5e4d040-ebfb-4f7d-9fe9-08edfb9958c3-1777317723163.webp",
+    "img_name": "a5e4d040-ebfb-4f7d-9fe9-08edfb9958c3-1777317723163.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "cf24c6dc-3121-4932-833f-58295da441f6",
+      "name": "очаково"
+    },
+    "nameseria": {
+      "id": "fd2fa5d7-5988-4a00-ab35-e34ef1e1a960",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "ba9e0ea0-76d8-48de-8818-94836a4cae30",
+    "vendorcode": "45321267",
+    "taste": "яблоко",
+    "img_path": "https://vd.fitsklad.ru/photos/good/cce84e2e-80ba-4a00-9fb2-1a769d4a20f2-1777317937493.webp",
+    "img_name": "cce84e2e-80ba-4a00-9fb2-1a769d4a20f2-1777317937493.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b7821c22-3738-4d56-9717-326c0e32c53f",
+      "name": "добрый"
+    },
+    "nameseria": {
+      "id": "7deee4d5-7f64-4370-9c06-99493260d908",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "b759694f-50ce-4813-ac6f-4fd56c2b2d11",
+    "vendorcode": "45346790",
+    "taste": "клубника",
+    "img_path": "https://vd.fitsklad.ru/photos/good/0acaca08-f170-44e3-8ee9-e3b67f9f5290-1777964734331.webp",
+    "img_name": "0acaca08-f170-44e3-8ee9-e3b67f9f5290-1777964734331.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "9cb45352-6ef7-4145-a37d-6103199cf662",
+      "name": "Милкис"
+    },
+    "nameseria": {
+      "id": "a0996da8-e179-4276-a0f9-f9ad3f954de8",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "d2cfd1cd-806f-46b4-a0fe-470d80ba831d",
+    "vendorcode": "56890011",
+    "taste": "шоколадная начинка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/8743c775-01f8-44ce-be02-d9e44b0c4391-1778146182557.webp",
+    "img_name": "8743c775-01f8-44ce-be02-d9e44b0c4391-1778146182557.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "d8f13da0-9c5b-4ec7-8753-be64ab7feba9",
+      "name": "MIRAI"
+    },
+    "nameseria": {
+      "id": "81a1c3c4-75df-4302-a9f3-9d99a4633288",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "ae0fb15a-d854-4c36-b91d-52a30b3e47e6",
+    "vendorcode": "4607024895214",
+    "taste": " сметана/лук",
+    "img_path": "https://vd.fitsklad.ru/photos/good/920ad0bd-d64e-442e-90c8-b70867c9c4d3-1778248292197.webp",
+    "img_name": "920ad0bd-d64e-442e-90c8-b70867c9c4d3-1778248292197.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "62940de3-9fa3-4034-9bd2-bb8f20da459e",
+      "name": "Чипсы"
+    },
+    "nameseria": {
+      "id": "688bc49d-d7ff-4693-8c78-36c0ba20f70c",
+      "name": "снек"
+    }
+  },
+  {
+    "id": "93967b8e-1595-4044-b624-09ddb1ae1be8",
+    "vendorcode": "4607069336376",
+    "taste": "Багет томат/зелень",
+    "img_path": "https://vd.fitsklad.ru/photos/good/1524edc8-738c-4bcd-a5d7-4dfe740c5f7a-1778666999855.jpg",
+    "img_name": "1524edc8-738c-4bcd-a5d7-4dfe740c5f7a-1778666999855.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "c992e578-3365-4528-af0f-8f5573490a5a",
+      "name": "Хрустим"
+    },
+    "nameseria": {
+      "id": "543eaf03-d2ce-4921-adfd-64cbfc00d71e",
+      "name": "Сухарики"
+    }
+  },
+  {
+    "id": "bdeac662-91d2-4b19-8c5e-cd99b0dd3827",
+    "vendorcode": "4607069336377",
+    "taste": "сметана",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b0075cf8-f3dc-42a6-9fd4-c4f0c04d1b0f-1778667139273.webp",
+    "img_name": "b0075cf8-f3dc-42a6-9fd4-c4f0c04d1b0f-1778667139273.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c992e578-3365-4528-af0f-8f5573490a5a",
+      "name": "Хрустим"
+    },
+    "nameseria": {
+      "id": "543eaf03-d2ce-4921-adfd-64cbfc00d71e",
+      "name": "Сухарики"
+    }
+  },
+  {
+    "id": "af4d945b-63af-4ec2-a5f7-bb112e6e3934",
+    "vendorcode": "4680021880629",
+    "taste": "цветная глазурь",
+    "img_path": "https://vd.fitsklad.ru/photos/good/4fc7debb-48c7-4beb-85b8-ee467aea896d-1778670538207.webp",
+    "img_name": "4fc7debb-48c7-4beb-85b8-ee467aea896d-1778670538207.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "62811075-6913-46c1-af96-40a4fa8d928b",
+      "name": "yota"
+    },
+    "nameseria": {
+      "id": "3c4fb929-5a0b-4808-b915-3784a8136ed2",
+      "name": "снек"
+    }
+  },
+  {
+    "id": "28bb4000-77c7-4d2b-8371-88ef8046946a",
+    "vendorcode": "4833004811077",
+    "taste": "манго-кокос",
+    "img_path": "https://vd.fitsklad.ru/photos/good/3e6e8d84-4d16-4a67-b176-1e0733050d6d-1778677883843.webp",
+    "img_name": "3e6e8d84-4d16-4a67-b176-1e0733050d6d-1778677883843.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "2ead7f84-b35d-4ad3-ac98-af0219464dae",
+      "name": "болд"
+    },
+    "nameseria": {
+      "id": "c2376aa5-92af-4210-ab59-92280065c01b",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "12c340c8-46a4-4f4c-b836-bb9aa970ecab",
+    "vendorcode": "4600494660023",
+    "taste": "Лимон и Лайм",
+    "img_path": "https://vd.fitsklad.ru/photos/good/9da2f197-3d00-48f0-8f28-246b02628c2f-1760174934616.webp",
+    "img_name": "9da2f197-3d00-48f0-8f28-246b02628c2f-1760174934616.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "aca47908-bbc1-4ea8-9432-7ce2a33f74b1",
+      "name": "Фрустайл"
+    },
+    "nameseria": {
+      "id": "fff6b7fa-4edd-4233-bfab-d28766b6d774",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "dd9db212-5f97-434d-9478-3b777c1a9b15",
+    "vendorcode": "4602441014033",
+    "taste": "лимонад",
+    "img_path": "https://vd.fitsklad.ru/photos/good/82d3a54c-8b0b-4bef-931b-9a0db438ef0c-1778678849509.webp",
+    "img_name": "82d3a54c-8b0b-4bef-931b-9a0db438ef0c-1778678849509.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "6a7d3265-0f6d-496b-9e6f-ccc867b0e99f",
+      "name": "Черноголовка"
+    },
+    "nameseria": {
+      "id": "5a94e473-3908-4ad5-ad56-bd1f4f9b7aef",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "7043f1b6-bc1a-412f-92db-2a6629d759d2",
+    "vendorcode": "4607132829637",
+    "taste": "ассорти",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f0acb716-6343-4c31-b7af-80cbb2f57000-1778858062962.webp",
+    "img_name": "f0acb716-6343-4c31-b7af-80cbb2f57000-1778858062962.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "40bb9934-f7c1-47b2-8d3d-77dec85b669b",
+      "name": "Рахат лукум"
+    },
+    "nameseria": {
+      "id": "a5613156-083f-4ea1-9542-3bcab61b09ec",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "742f081f-f04a-4646-9a38-510cc42602d9",
+    "vendorcode": "4690388011123",
+    "taste": "сыр",
+    "img_path": "https://vd.fitsklad.ru/photos/good/7633ec38-b4a7-4d2d-b076-0841aabefdc2-1778916078247.webp",
+    "img_name": "7633ec38-b4a7-4d2d-b076-0841aabefdc2-1778916078247.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "64e0b608-f071-4676-bf99-9e8fa6961b16",
+    "vendorcode": "4690388008062",
+    "taste": "Багет Сырное Ассорти",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b9288b1b-213b-4fd3-9cfd-f7aaf62b3d97-1760169033911.webp",
+    "img_name": "b9288b1b-213b-4fd3-9cfd-f7aaf62b3d97-1760169033911.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c992e578-3365-4528-af0f-8f5573490a5a",
+      "name": "Хрустим"
+    },
+    "nameseria": {
+      "id": "543eaf03-d2ce-4921-adfd-64cbfc00d71e",
+      "name": "Сухарики"
+    }
+  },
+  {
+    "id": "ca3d3af3-fc91-4140-a851-54801169be75",
+    "vendorcode": "76900434",
+    "taste": "Апельсин/мандарин",
+    "img_path": "https://vd.fitsklad.ru/photos/good/53e93118-1f6c-4312-bd84-2782488fb353-1777318062828.webp",
+    "img_name": "53e93118-1f6c-4312-bd84-2782488fb353-1777318062828.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b7821c22-3738-4d56-9717-326c0e32c53f",
+      "name": "добрый"
+    },
+    "nameseria": {
+      "id": "7deee4d5-7f64-4370-9c06-99493260d908",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "c400b9bc-2c6d-4f03-ae47-eaf2b1035edf",
+    "vendorcode": "12653490",
+    "taste": "персик",
+    "img_path": "https://vd.fitsklad.ru/photos/good/bf353719-052a-475b-bece-d688a672e959-1777318382320.webp",
+    "img_name": "bf353719-052a-475b-bece-d688a672e959-1777318382320.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c6cbc434-6244-498c-aae2-59484b40e3c8",
+      "name": "Rich"
+    },
+    "nameseria": {
+      "id": "6eb4e7e3-ab67-4c8a-baca-d25485aff811",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "4b92159f-9683-4a38-9788-1c1f62110371",
+    "vendorcode": "4509678890954",
+    "taste": "зеленый чай",
+    "img_path": "https://vd.fitsklad.ru/photos/good/572ebdf6-b6c2-4883-aab1-8b44bdaa6133-1777318649680.webp",
+    "img_name": "572ebdf6-b6c2-4883-aab1-8b44bdaa6133-1777318649680.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c6cbc434-6244-498c-aae2-59484b40e3c8",
+      "name": "Rich"
+    },
+    "nameseria": {
+      "id": "6eb4e7e3-ab67-4c8a-baca-d25485aff811",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "e0488597-428b-4ac1-95b3-2f5cf230c7d5",
+    "vendorcode": "4601025117702",
+    "taste": "апельсин",
+    "img_path": "https://vd.fitsklad.ru/photos/good/4f470f1e-ce0a-47cf-b68f-7a6ad238064c-1777318892606.webp",
+    "img_name": "4f470f1e-ce0a-47cf-b68f-7a6ad238064c-1777318892606.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "0a16f9ec-ee03-4c0c-a421-30abdee31b16",
+      "name": "фрутмотив"
+    },
+    "nameseria": {
+      "id": "e6f7f03d-7ad5-426b-9c67-e197cfc73df3",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "ace25bcf-557b-47b8-a1b5-d14495904596",
+    "vendorcode": "4601025117603",
+    "taste": "вишня",
+    "img_path": "https://vd.fitsklad.ru/photos/good/1e602e78-3bb3-4199-9e7c-f8a9d7ae5309-1777319132965.webp",
+    "img_name": "1e602e78-3bb3-4199-9e7c-f8a9d7ae5309-1777319132965.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "0a16f9ec-ee03-4c0c-a421-30abdee31b16",
+      "name": "фрутмотив"
+    },
+    "nameseria": {
+      "id": "e6f7f03d-7ad5-426b-9c67-e197cfc73df3",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "b6d6c2f3-de2d-455c-9f33-06151a342294",
+    "vendorcode": "4601025118563",
+    "taste": "гранат",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c20180c9-ebb1-47ba-bb0f-06b3d8198b23-1777319232034.webp",
+    "img_name": "c20180c9-ebb1-47ba-bb0f-06b3d8198b23-1777319232034.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "0a16f9ec-ee03-4c0c-a421-30abdee31b16",
+      "name": "фрутмотив"
+    },
+    "nameseria": {
+      "id": "e6f7f03d-7ad5-426b-9c67-e197cfc73df3",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "3efde866-4c2f-4468-b859-9b19949546ca",
+    "vendorcode": "5060608742172",
+    "taste": "оригинал ",
+    "img_path": "https://vd.fitsklad.ru/photos/good/9d8c5646-82c3-4df1-b357-cd2b8a955cc2-1777319532094.webp",
+    "img_name": "9d8c5646-82c3-4df1-b357-cd2b8a955cc2-1777319532094.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "f8c9cc05-cc14-4242-b3cb-62fcac34e4bb",
+      "name": "берн"
+    },
+    "nameseria": {
+      "id": "6e62e7f0-3160-4ac6-84a7-57a1669bbbf1",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "a9cf9e2d-8372-41fa-ac6a-55d971cff1a1",
+    "vendorcode": "9002490210397",
+    "taste": "энергетический",
+    "img_path": "https://vd.fitsklad.ru/photos/good/3dfebbe0-523d-4510-ba5b-8a572aee5597-1777319785151.webp",
+    "img_name": "3dfebbe0-523d-4510-ba5b-8a572aee5597-1777319785151.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b33b9d42-5564-456a-baa4-c801479a4964",
+      "name": "ред булл"
+    },
+    "nameseria": {
+      "id": "bd45e815-da9a-414b-930a-a7abacd32bc6",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "0ff7cc04-60d5-4ab0-afeb-1f66e068b044",
+    "vendorcode": "4860019001353",
+    "taste": "вода",
+    "img_path": "https://vd.fitsklad.ru/photos/good/01c68eba-fe7e-442d-8afb-dbf2d3d520ef-1777320019312.webp",
+    "img_name": "01c68eba-fe7e-442d-8afb-dbf2d3d520ef-1777320019312.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e25cffb8-8649-4484-9782-f8f369646691",
+      "name": "боржоми"
+    },
+    "nameseria": {
+      "id": "9a0a290f-aa80-4bad-a39b-51c63aec3229",
+      "name": "вода"
+    }
+  },
+  {
+    "id": "e6e3ab4d-419f-491d-9746-d351822123eb",
+    "vendorcode": "4600494685521",
+    "taste": "Кола",
+    "img_path": "https://vd.fitsklad.ru/photos/good/dd042584-7732-4653-9e65-8b654242bcce-1760175970896.webp",
+    "img_name": "dd042584-7732-4653-9e65-8b654242bcce-1760175970896.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "7fd5826c-e82d-42bd-8819-3065a325c5a5",
+      "name": "Evervess"
+    },
+    "nameseria": {
+      "id": "a402faae-d81e-4d11-984a-8c235c6ca73f",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "9e652196-62c1-4bae-8bd6-9c7d8d07b740",
+    "vendorcode": "4600494699825",
+    "taste": "Апельсин",
+    "img_path": "https://vd.fitsklad.ru/photos/good/58a7415e-1f41-4e8b-9074-a8b44a0dcee7-1760176574666.webp",
+    "img_name": "58a7415e-1f41-4e8b-9074-a8b44a0dcee7-1760176574666.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "aca47908-bbc1-4ea8-9432-7ce2a33f74b1",
+      "name": "Фрустайл"
+    },
+    "nameseria": {
+      "id": "fff6b7fa-4edd-4233-bfab-d28766b6d774",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "49c22b6d-63e6-46d4-bab6-bc543ef53811",
+    "vendorcode": "4607035653292",
+    "taste": "Ореховые",
+    "img_path": "https://vd.fitsklad.ru/photos/good/8df1432b-454c-4eea-8958-322569298c03-1777320323067.webp",
+    "img_name": "8df1432b-454c-4eea-8958-322569298c03-1777320323067.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e75d8d93-0229-4e62-8f0c-f7bead42d346",
+      "name": "яшкино"
+    },
+    "nameseria": {
+      "id": "42ca7e9b-fcb1-4f79-93c3-c96dcfb9df13",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "b17d401f-09ff-443c-ae3a-09b20d5899c1",
+    "vendorcode": "4600300088867",
+    "taste": "Молочный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/ead97a6c-8ebe-425e-a9b9-11dec54c7c1c-1760023619578.webp",
+    "img_name": "ead97a6c-8ebe-425e-a9b9-11dec54c7c1c-1760023619578.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "86660c38-e76a-4c04-9348-a026bc985cc1",
+      "name": "Алёнка"
+    },
+    "nameseria": {
+      "id": "f5907941-4359-46c2-a8d1-3c2db0e0d929",
+      "name": "Шоколад"
+    }
+  },
+  {
+    "id": "07ecdb14-e94c-4a85-9c7b-15c7b6cfff35",
+    "vendorcode": "4011100977952",
+    "taste": "карамель и печенье",
+    "img_path": "https://vd.fitsklad.ru/photos/good/76cf53c3-7314-4917-b4c9-cb02c517f429-1760002430167.png",
+    "img_name": "76cf53c3-7314-4917-b4c9-cb02c517f429-1760002430167.png",
+    "is_adult": false,
+    "brand": {
+      "id": "ce800edc-efa8-410e-b953-959c6972600c",
+      "name": "Твикс"
+    },
+    "nameseria": {
+      "id": "41bc8a92-fe9e-4772-aebe-607c7007a878",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "1d0057d2-477d-4619-ac14-87282f671068",
+    "vendorcode": "57893984",
+    "taste": "манго",
+    "img_path": "https://vd.fitsklad.ru/photos/good/a281797b-08bd-4317-a5e2-af8375655f43-1777964827260.webp",
+    "img_name": "a281797b-08bd-4317-a5e2-af8375655f43-1777964827260.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "9cb45352-6ef7-4145-a37d-6103199cf662",
+      "name": "Милкис"
+    },
+    "nameseria": {
+      "id": "a0996da8-e179-4276-a0f9-f9ad3f954de8",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "4ef25a5d-7399-4aef-b2f3-5bc9971b99cf",
+    "vendorcode": "6435756786745",
+    "taste": "adrenaline",
+    "img_path": "https://vd.fitsklad.ru/photos/good/0200cbe4-0097-40e0-926f-14468bcd2af3-1777981695387.webp",
+    "img_name": "0200cbe4-0097-40e0-926f-14468bcd2af3-1777981695387.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "5424a033-76b6-4099-9c04-6ca72d75dde9",
+      "name": "Adrenaline"
+    },
+    "nameseria": {
+      "id": "0ca0fd04-1867-43cf-ab0e-1486eb2e0a5c",
+      "name": "Энергетики"
+    }
+  },
+  {
+    "id": "6d31f1c1-ec02-4e42-9606-bd26cdd329ba",
+    "vendorcode": "4600495507853",
+    "taste": "Сгущёнка ",
+    "img_path": "https://vd.fitsklad.ru/photos/good/29fc7d5a-4314-4717-82ab-73937d9c0129-1777991254460.webp",
+    "img_name": "29fc7d5a-4314-4717-82ab-73937d9c0129-1777991254460.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c5de276b-d41e-4df9-9539-97f43ac97981",
+      "name": "супер контик"
+    },
+    "nameseria": {
+      "id": "df3d9d21-aba5-41de-bb44-b47f5fcf88ac",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "6cdea2e4-1a7c-41e8-9316-90a545c1b1eb",
+    "vendorcode": "4600068064028",
+    "taste": "квас",
+    "img_path": "https://vd.fitsklad.ru/photos/good/77e26d0f-fae5-4588-a168-0bca841c1bb5-1777994598932.webp",
+    "img_name": "77e26d0f-fae5-4588-a168-0bca841c1bb5-1777994598932.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "cf24c6dc-3121-4932-833f-58295da441f6",
+      "name": "очаково"
+    },
+    "nameseria": {
+      "id": "fd2fa5d7-5988-4a00-ab35-e34ef1e1a960",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "21e01b34-eac2-41f9-bc71-02f6e69021f7",
+    "vendorcode": "4660298500437",
+    "taste": "Cливочное",
+    "img_path": "https://vd.fitsklad.ru/photos/good/de46bc0e-29b1-4691-ba15-504f3a2a72a8-1761122059632.png",
+    "img_name": "de46bc0e-29b1-4691-ba15-504f3a2a72a8-1761122059632.png",
+    "is_adult": false,
+    "brand": {
+      "id": "e74394f3-a8c2-4886-a3ed-6db29b965557",
+      "name": "BOMBBAR"
+    },
+    "nameseria": {
+      "id": "1dd75bd5-fdbb-4cff-bb16-42c7afd8c2b6",
+      "name": "Печенье"
+    }
+  },
+  {
+    "id": "5904359b-ed71-412d-9130-25c607ede3b4",
+    "vendorcode": "4660298501182",
+    "taste": "Белые грибы",
+    "img_path": "https://vd.fitsklad.ru/photos/good/22058d3e-c2d7-4dc1-bdcb-f32b3ac403f9-1761118017878.webp",
+    "img_name": "22058d3e-c2d7-4dc1-bdcb-f32b3ac403f9-1761118017878.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e74394f3-a8c2-4886-a3ed-6db29b965557",
+      "name": "BOMBBAR"
+    },
+    "nameseria": {
+      "id": "fd2a2949-e5ab-4c0e-87af-9a81d99eca11",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "474d9ffe-7b28-4ede-ae77-e99b21583dbf",
+    "vendorcode": "46177889",
+    "taste": "МЕНТОЛ ЭКСТРА",
+    "img_path": "https://vd.fitsklad.ru/photos/good/8179fc24-3bca-4c00-9f8f-ef67c540f9de-1760025710804.webp",
+    "img_name": "8179fc24-3bca-4c00-9f8f-ef67c540f9de-1760025710804.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "efc75d0a-77f7-4b2b-8265-f21dba4cfc53",
+      "name": "Halls"
+    },
+    "nameseria": {
+      "id": "14bb62a6-4c55-43f7-b454-654c7052f5c3",
+      "name": "КАРАМЕЛЬ ЛЕДЕНЕЦ"
+    }
+  },
+  {
+    "id": "83149f36-12f5-4bd6-bac8-60c16b23f461",
+    "vendorcode": "4602441025527",
+    "taste": "Соленый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f4b53612-1a9c-439f-8f5e-5a52448279f8-1766500735183.png",
+    "img_name": "f4b53612-1a9c-439f-8f5e-5a52448279f8-1766500735183.png",
+    "is_adult": false,
+    "brand": {
+      "id": "2cf116c4-0619-4c32-8646-847345acebff",
+      "name": "Фишка"
+    },
+    "nameseria": {
+      "id": "7d3acf65-3dc3-4ef9-af7b-d721610e7767",
+      "name": "Арахис"
+    }
+  },
+  {
+    "id": "3130a1d3-d4f8-45e8-b7fe-47b4d0877be4",
+    "vendorcode": "7622202048487",
+    "taste": "Молочный клубника/сливки",
+    "img_path": "https://vd.fitsklad.ru/photos/good/73da67fc-3139-4ee3-8683-d10126aad4a1-1760009929115.webp",
+    "img_name": "73da67fc-3139-4ee3-8683-d10126aad4a1-1760009929115.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1cedadcc-a22a-4173-9753-e4e9e0bd101b",
+      "name": "Milka"
+    },
+    "nameseria": {
+      "id": "8c12da81-cb57-4586-ac87-40f112466249",
+      "name": "Шоколад"
+    }
+  },
+  {
+    "id": "3a065a42-c55d-4a91-bfb6-3810b81c1c0e",
+    "vendorcode": "40052458",
+    "taste": "молочный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/3c36d3c5-d266-41b6-a0d0-8b450eaff241-1777997303597.webp",
+    "img_name": "3c36d3c5-d266-41b6-a0d0-8b450eaff241-1777997303597.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "0cee27c3-0cb0-4f13-a67f-c058eb9e9260",
+      "name": "KitKat"
+    },
+    "nameseria": {
+      "id": "58920d5c-6e9b-4998-af0b-51aeecf75a94",
+      "name": "Шоколадный батончик"
+    }
+  },
+  {
+    "id": "6c2a2091-a83c-412c-95a2-0057981c5cbd",
+    "vendorcode": "4610083742023",
+    "taste": "нейви",
+    "img_path": "https://vd.fitsklad.ru/photos/good/ea0ce0cf-f4f8-478b-8aad-e5712ceaf775-1777999686592.webp",
+    "img_name": "ea0ce0cf-f4f8-478b-8aad-e5712ceaf775-1777999686592.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1017462c-73c4-49bc-ae6c-10999936c1be",
+      "name": "POWER TORR "
+    },
+    "nameseria": {
+      "id": "8444d56c-2fed-4031-8d86-5155c928768d",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "c361f290-caa8-4873-aaaf-26d518968232",
+    "vendorcode": "4600494699863",
+    "taste": "Апельсин",
+    "img_path": "https://vd.fitsklad.ru/photos/good/cc8390b1-41e2-471d-9f0a-7a3a9c8f3a8c-1760176713494.webp",
+    "img_name": "cc8390b1-41e2-471d-9f0a-7a3a9c8f3a8c-1760176713494.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "aca47908-bbc1-4ea8-9432-7ce2a33f74b1",
+      "name": "Фрустайл"
+    },
+    "nameseria": {
+      "id": "fff6b7fa-4edd-4233-bfab-d28766b6d774",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "52d40bb0-b5e7-4144-b65f-65d1f5261c71",
+    "vendorcode": "4600494694202",
+    "taste": "Rush",
+    "img_path": "https://vd.fitsklad.ru/photos/good/937c1afd-5aa3-417d-b2f9-891d059079a7-1766566207439.webp",
+    "img_name": "937c1afd-5aa3-417d-b2f9-891d059079a7-1766566207439.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "5424a033-76b6-4099-9c04-6ca72d75dde9",
+      "name": "Adrenaline"
+    },
+    "nameseria": {
+      "id": "0ca0fd04-1867-43cf-ab0e-1486eb2e0a5c",
+      "name": "Энергетики"
+    }
+  },
+  {
+    "id": "062ba152-41c1-404b-bc90-169a9f91232c",
+    "vendorcode": "4673748982035",
+    "taste": "Негазированная Минеральная",
+    "img_path": "https://vd.fitsklad.ru/photos/good/712ebf5a-8716-41d8-80f8-fda4bbe94ff1-1760177459696.webp",
+    "img_name": "712ebf5a-8716-41d8-80f8-fda4bbe94ff1-1760177459696.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "0fdae49f-594c-4b0f-8420-31114c5977f2",
+      "name": "Моя стихия"
+    },
+    "nameseria": {
+      "id": "6b5f2bc0-d70f-4f85-ae3c-c77dc093e935",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "fc926fb1-3ac9-4664-ba0a-648e31820cc9",
+    "vendorcode": "4690388119133",
+    "taste": "Зеленый Лук",
+    "img_path": "https://vd.fitsklad.ru/photos/good/92ce2d01-d691-442b-ac65-5076e5ba019a-1760166985801.webp",
+    "img_name": "92ce2d01-d691-442b-ac65-5076e5ba019a-1760166985801.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "f15cc372-1769-463d-8a24-28c3eb67eaed",
+    "vendorcode": "4690388121020",
+    "taste": "Лобстер",
+    "img_path": "https://vd.fitsklad.ru/photos/good/6d42c3d1-f97c-4aab-a8d4-3f2647b3dceb-1760166718683.webp",
+    "img_name": "6d42c3d1-f97c-4aab-a8d4-3f2647b3dceb-1760166718683.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "fb9753cb-25ac-46ed-8ce5-5ec3de14eb83",
+    "vendorcode": "7622210500212",
+    "taste": "Оригинальный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/6c9fe259-2d83-4999-b0fd-245237362f00-1760025980253.webp",
+    "img_name": "6c9fe259-2d83-4999-b0fd-245237362f00-1760025980253.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "efc75d0a-77f7-4b2b-8265-f21dba4cfc53",
+      "name": "Halls"
+    },
+    "nameseria": {
+      "id": "14bb62a6-4c55-43f7-b454-654c7052f5c3",
+      "name": "КАРАМЕЛЬ ЛЕДЕНЕЦ"
+    }
+  },
+  {
+    "id": "7c8f57c6-dac0-47ed-ada9-1a657adbd17a",
+    "vendorcode": "7622201771027",
+    "taste": "Дробленый Фундук",
+    "img_path": "https://vd.fitsklad.ru/photos/good/ad91ddff-0102-4ab1-bd25-bf49b50b5b7a-1760009647761.webp",
+    "img_name": "ad91ddff-0102-4ab1-bd25-bf49b50b5b7a-1760009647761.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1cedadcc-a22a-4173-9753-e4e9e0bd101b",
+      "name": "Milka"
+    },
+    "nameseria": {
+      "id": "8c12da81-cb57-4586-ac87-40f112466249",
+      "name": "Шоколад"
+    }
+  },
+  {
+    "id": "02317351-52d6-4920-b29f-7a4f98ebe58f",
+    "vendorcode": "4600494600494",
+    "taste": "Чай Лимон",
+    "img_path": "https://vd.fitsklad.ru/photos/good/d8639016-c402-4243-8f66-b0ed34f2c84b-1760177036647.webp",
+    "img_name": "d8639016-c402-4243-8f66-b0ed34f2c84b-1760177036647.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "42877b69-9ec4-46cd-a097-e0c6aa03d6eb",
+      "name": "Lipton"
+    },
+    "nameseria": {
+      "id": "a7bfb693-b577-4178-964b-6641e72fd1cc",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "d41ff839-c264-42e6-9755-9af03c14e44e",
+    "vendorcode": "7622201427214",
+    "taste": "Фундук",
+    "img_path": "https://vd.fitsklad.ru/photos/good/93193f61-99c5-425b-8d4c-f4ffc9543b41-1760009185657.webp",
+    "img_name": "93193f61-99c5-425b-8d4c-f4ffc9543b41-1760009185657.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "f2373ec9-0497-4e9a-b7bb-0f8cd19d773a",
+      "name": "Альпен Голд"
+    },
+    "nameseria": {
+      "id": "2f3232b3-ce87-4ae9-96f6-97c089b672f1",
+      "name": "Шоколад"
+    }
+  },
+  {
+    "id": "7f14a5ea-10c2-4176-8993-6ddc746cff16",
+    "vendorcode": "4690388121044",
+    "taste": "Соль",
+    "img_path": "https://vd.fitsklad.ru/photos/good/18d12df3-85fd-4959-bacf-69d262e953a5-1760164953121.webp",
+    "img_name": "18d12df3-85fd-4959-bacf-69d262e953a5-1760164953121.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "042f4fd2-712e-4ccf-8784-54fae1425eee",
+    "vendorcode": "4600494666612",
+    "taste": "Без сахара",
+    "img_path": "https://vd.fitsklad.ru/photos/good/d4a7f5aa-c982-4a14-9e32-2f1099e0586d-1766566100129.webp",
+    "img_name": "d4a7f5aa-c982-4a14-9e32-2f1099e0586d-1766566100129.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "5424a033-76b6-4099-9c04-6ca72d75dde9",
+      "name": "Adrenaline"
+    },
+    "nameseria": {
+      "id": "0ca0fd04-1867-43cf-ab0e-1486eb2e0a5c",
+      "name": "Энергетики"
+    }
+  },
+  {
+    "id": "0830f689-2bec-40a1-bdc7-c923a2fb1bba",
+    "vendorcode": "46040145",
+    "taste": "с шоколадом",
+    "img_path": "https://vd.fitsklad.ru/photos/good/539b5f42-be68-4e71-a928-f8cc12506f5b-1760026891383.webp",
+    "img_name": "539b5f42-be68-4e71-a928-f8cc12506f5b-1760026891383.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "5926f296-7126-4b68-8f42-517022ad984f",
+      "name": "Meller"
+    },
+    "nameseria": {
+      "id": "1aadee97-95a8-4086-87aa-604fa0c9079a",
+      "name": "Ирис"
+    }
+  },
+  {
+    "id": "44c57c42-0b88-4da0-a61d-71d24f93da89",
+    "vendorcode": "4600494666445",
+    "taste": "Индиан Тоник",
+    "img_path": "https://vd.fitsklad.ru/photos/good/2657e7d1-cd84-4abe-8109-e95897d37189-1760175221260.webp",
+    "img_name": "2657e7d1-cd84-4abe-8109-e95897d37189-1760175221260.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "7fd5826c-e82d-42bd-8819-3065a325c5a5",
+      "name": "Evervess"
+    },
+    "nameseria": {
+      "id": "a402faae-d81e-4d11-984a-8c235c6ca73f",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "fd2fc489-05b8-45ba-9e0b-b0b9595260c1",
+    "vendorcode": "4600494696862",
+    "taste": "Чай Малина",
+    "img_path": "https://vd.fitsklad.ru/photos/good/2c49354d-5272-4069-80bd-2313bba8e21d-1760176907600.webp",
+    "img_name": "2c49354d-5272-4069-80bd-2313bba8e21d-1760176907600.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "42877b69-9ec4-46cd-a097-e0c6aa03d6eb",
+      "name": "Lipton"
+    },
+    "nameseria": {
+      "id": "a7bfb693-b577-4178-964b-6641e72fd1cc",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "156c4aeb-fb7b-430a-add1-d569570167b1",
+    "vendorcode": "4600494687259",
+    "taste": "Кола без сахара",
+    "img_path": "https://vd.fitsklad.ru/photos/good/6199e401-241d-43a3-be9d-807de645068a-1760175615931.webp",
+    "img_name": "6199e401-241d-43a3-be9d-807de645068a-1760175615931.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "7fd5826c-e82d-42bd-8819-3065a325c5a5",
+      "name": "Evervess"
+    },
+    "nameseria": {
+      "id": "a402faae-d81e-4d11-984a-8c235c6ca73f",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "9c440f8a-c11b-45fe-a82a-d88d02951a6c",
+    "vendorcode": "4011100091108",
+    "taste": "нуга , карамель",
+    "img_path": "https://vd.fitsklad.ru/photos/good/6dd2cf9e-23de-4a03-b907-c27eab95fb98-1760002403017.png",
+    "img_name": "6dd2cf9e-23de-4a03-b907-c27eab95fb98-1760002403017.png",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "f03b7173-178c-4728-af08-d62dec23e11e",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "b77583f2-b909-43be-90ea-825cc7ffc2f7",
+    "vendorcode": "4680089892398",
+    "taste": "Брауни белый шоколад фисташка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c22bd2d0-61ff-4d47-b80d-dc9b966c0e02-1760002533225.png",
+    "img_name": "c22bd2d0-61ff-4d47-b80d-dc9b966c0e02-1760002533225.png",
+    "is_adult": false,
+    "brand": {
+      "id": "fb181423-52a5-4d9a-b125-995241ab8bca",
+      "name": " FitnesSHOCK"
+    },
+    "nameseria": {
+      "id": "d200799e-0d81-4f69-acc3-ab97016c5a16",
+      "name": "Кондитерское изделие"
+    }
+  },
+  {
+    "id": "97c5c2fb-0708-46ec-8fd2-c08f65598a04",
+    "vendorcode": "8934801400139",
+    "taste": "БАНАНЫ ВЯЛЕНЫЕ",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f8d2c4b5-564e-49ab-a170-1ef24fe20944-1760028098400.webp",
+    "img_name": "f8d2c4b5-564e-49ab-a170-1ef24fe20944-1760028098400.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e12acd31-b6b9-41d1-a16c-903845240841",
+      "name": "NATUREFOODS"
+    },
+    "nameseria": {
+      "id": "1ca7b934-77b9-4d33-b802-b30113733d9a",
+      "name": "Сухофрукты"
+    }
+  },
+  {
+    "id": "77c47347-d958-42dc-9d7f-6a6edc3fc6b5",
+    "vendorcode": "4600494680250",
+    "taste": "Ванильное Мороженое",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f8b396c3-9ea5-4509-b177-ecc8e39cdb47-1760175452533.webp",
+    "img_name": "f8b396c3-9ea5-4509-b177-ecc8e39cdb47-1760175452533.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "7fd5826c-e82d-42bd-8819-3065a325c5a5",
+      "name": "Evervess"
+    },
+    "nameseria": {
+      "id": "a402faae-d81e-4d11-984a-8c235c6ca73f",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "d006eece-ea63-4e87-b475-9354544ff5b7",
+    "vendorcode": "7622201777227",
+    "taste": "Молочный пористый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/da20d0e3-c613-4a26-a694-afb9c1353425-1760023982211.webp",
+    "img_name": "da20d0e3-c613-4a26-a694-afb9c1353425-1760023982211.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "6073dedc-45f5-4a26-a6fc-c6c5df6cd68a",
+      "name": "Воздушный"
+    },
+    "nameseria": {
+      "id": "ab445e60-dc64-4e60-b482-2d80b7bfa169",
+      "name": "Шоколад"
+    }
+  },
+  {
+    "id": "b1e02b0d-9926-4d1e-88b9-172aca086f3f",
+    "vendorcode": "4690388110130",
+    "taste": "Багет Сметана Зелень",
+    "img_path": "https://vd.fitsklad.ru/photos/good/4699387e-53db-40cc-a1dd-504b699a8ef2-1760169623970.png",
+    "img_name": "4699387e-53db-40cc-a1dd-504b699a8ef2-1760169623970.png",
+    "is_adult": false,
+    "brand": {
+      "id": "c992e578-3365-4528-af0f-8f5573490a5a",
+      "name": "Хрустим"
+    },
+    "nameseria": {
+      "id": "543eaf03-d2ce-4921-adfd-64cbfc00d71e",
+      "name": "Сухарики"
+    }
+  },
+  {
+    "id": "93348730-c65a-4f9e-988c-d2d9585d180a",
+    "vendorcode": "4011100977624",
+    "taste": "Кокос",
+    "img_path": "https://vd.fitsklad.ru/photos/good/1af76798-03a3-4ce5-bfc5-57d4232c967b-1760002370189.png",
+    "img_name": "1af76798-03a3-4ce5-bfc5-57d4232c967b-1760002370189.png",
+    "is_adult": false,
+    "brand": {
+      "id": "045ad5d4-ef9e-419e-a64f-02e67a1cc9bf",
+      "name": "Баунти"
+    },
+    "nameseria": {
+      "id": "6519a607-d2af-44ac-9563-0b7881dbb027",
+      "name": "Шоколадный батончик"
+    }
+  },
+  {
+    "id": "f5bc8f9f-b95d-4ef2-bd1d-eec2a3313812",
+    "vendorcode": "4690388117276",
+    "taste": "Баварские колбаски",
+    "img_path": "https://vd.fitsklad.ru/photos/good/81fe2356-85d4-40ca-8f96-d9a5ee86c9c5-1760170008925.webp",
+    "img_name": "81fe2356-85d4-40ca-8f96-d9a5ee86c9c5-1760170008925.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c992e578-3365-4528-af0f-8f5573490a5a",
+      "name": "Хрустим"
+    },
+    "nameseria": {
+      "id": "543eaf03-d2ce-4921-adfd-64cbfc00d71e",
+      "name": "Сухарики"
+    }
+  },
+  {
+    "id": "8a7f4554-0f35-4a45-a6c4-71bf8e0a371f",
+    "vendorcode": "4680089891889",
+    "taste": "Брауни банановый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/d56c2407-d379-4e9b-a3dc-65af4c6cdccb-1760002550279.png",
+    "img_name": "d56c2407-d379-4e9b-a3dc-65af4c6cdccb-1760002550279.png",
+    "is_adult": false,
+    "brand": {
+      "id": "fb181423-52a5-4d9a-b125-995241ab8bca",
+      "name": " FitnesSHOCK"
+    },
+    "nameseria": {
+      "id": "d200799e-0d81-4f69-acc3-ab97016c5a16",
+      "name": "Кондитерское изделие"
+    }
+  },
+  {
+    "id": "f9a11741-19c3-4881-9f2a-e9ecde4214f2",
+    "vendorcode": "4690388119096",
+    "taste": "Краб",
+    "img_path": "https://vd.fitsklad.ru/photos/good/ac1bb87d-0a48-4db8-9114-803e0ef6ca14-1760167218132.webp",
+    "img_name": "ac1bb87d-0a48-4db8-9114-803e0ef6ca14-1760167218132.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "d357dc4b-f4f0-45f9-9ca9-f4838b922565",
+    "vendorcode": "7622210343161",
+    "taste": "Белый пористый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/7a272280-11a2-4d67-9be3-b907e96c07b2-1760008262309.webp",
+    "img_name": "7a272280-11a2-4d67-9be3-b907e96c07b2-1760008262309.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "6073dedc-45f5-4a26-a6fc-c6c5df6cd68a",
+      "name": "Воздушный"
+    },
+    "nameseria": {
+      "id": "ab445e60-dc64-4e60-b482-2d80b7bfa169",
+      "name": "Шоколад"
+    }
+  },
+  {
+    "id": "9394d477-a067-42b4-bec3-81cec963ac6e",
+    "vendorcode": "4600828030091",
+    "taste": "с помадно-сливочной начинкой",
+    "img_path": "https://vd.fitsklad.ru/photos/good/dbec1877-4d88-416e-9760-f2cab6ca9f79-1760003013875.webp",
+    "img_name": "dbec1877-4d88-416e-9760-f2cab6ca9f79-1760003013875.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "efdb2982-cfd2-4437-b55e-f46427c348e2",
+      "name": "Бабаевский"
+    },
+    "nameseria": {
+      "id": "2ff84af8-4c02-4684-8e31-06c0d0fc3cd7",
+      "name": "Батончик"
+    }
+  },
+  {
+    "id": "948136ff-c9fc-4cb8-9478-2e49ad03bb6d",
+    "vendorcode": "4011100156364",
+    "taste": "Фрукты",
+    "img_path": "https://vd.fitsklad.ru/photos/good/eca4a8cd-a340-440c-84d2-e485996a445b-1760002463167.png",
+    "img_name": "eca4a8cd-a340-440c-84d2-e485996a445b-1760002463167.png",
+    "is_adult": false,
+    "brand": {
+      "id": "e66dc1a1-8a24-4f0f-8b6f-6b6d44a76f6a",
+      "name": "Скитлс"
+    },
+    "nameseria": {
+      "id": "dbd83871-fdec-460f-b698-6e08253d9afa",
+      "name": "Конфеты драже"
+    }
+  },
+  {
+    "id": "82322fc9-522a-4afe-bedb-69157916f8ae",
+    "vendorcode": "4660298503032",
+    "taste": "Четыре сыра",
+    "img_path": "https://vd.fitsklad.ru/photos/good/76720743-e290-4fa6-a563-53cc36676e40-1761118661203.webp",
+    "img_name": "76720743-e290-4fa6-a563-53cc36676e40-1761118661203.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e74394f3-a8c2-4886-a3ed-6db29b965557",
+      "name": "BOMBBAR"
+    },
+    "nameseria": {
+      "id": "fd2a2949-e5ab-4c0e-87af-9a81d99eca11",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "ec7003c3-7248-4756-8f8a-a1c26a0c3c68",
+    "vendorcode": "4660298503056",
+    "taste": "Сметана и зелень",
+    "img_path": "https://vd.fitsklad.ru/photos/good/4b89c2b1-efb3-4b28-8ae6-bc08390c4caf-1761117667940.webp",
+    "img_name": "4b89c2b1-efb3-4b28-8ae6-bc08390c4caf-1761117667940.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e74394f3-a8c2-4886-a3ed-6db29b965557",
+      "name": "BOMBBAR"
+    },
+    "nameseria": {
+      "id": "fd2a2949-e5ab-4c0e-87af-9a81d99eca11",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "727a0188-7ab3-4a8d-8c48-bdc5e73d342e",
+    "vendorcode": "7622201427153",
+    "taste": "Молочный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/2b5e1118-2d65-4cf8-aa5f-486976f558ba-1760021404418.webp",
+    "img_name": "2b5e1118-2d65-4cf8-aa5f-486976f558ba-1760021404418.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "f2373ec9-0497-4e9a-b7bb-0f8cd19d773a",
+      "name": "Альпен Голд"
+    },
+    "nameseria": {
+      "id": "2f3232b3-ce87-4ae9-96f6-97c089b672f1",
+      "name": "Шоколад"
+    }
+  },
+  {
+    "id": "ce7c9e95-dc17-42bb-96db-cf36ad46cb88",
+    "vendorcode": "4690388119157",
+    "taste": "Сметана Зелень",
+    "img_path": "https://vd.fitsklad.ru/photos/good/bd4d917d-725b-4c50-8ea1-e3aaf800fe3e-1760166506720.webp",
+    "img_name": "bd4d917d-725b-4c50-8ea1-e3aaf800fe3e-1760166506720.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "c022b2b9-7644-4bd4-95a6-37075c20b894",
+    "vendorcode": "4011100091993",
+    "taste": "нуга, молочный шоколад",
+    "img_path": "https://vd.fitsklad.ru/photos/good/26346167-a7e8-4939-b817-54ca3fd2b046-1760025299608.webp",
+    "img_name": "26346167-a7e8-4939-b817-54ca3fd2b046-1760025299608.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "4f7be874-10a2-48c5-ac02-69ea882b5f0f",
+      "name": "Milky Way"
+    },
+    "nameseria": {
+      "id": "fbf411f3-fb90-4ad5-a5a7-4f7689c332cd",
+      "name": "Батончик шоколадный"
+    }
+  },
+  {
+    "id": "882d5d85-7c9a-4bba-8a6d-18f8d1ac95a0",
+    "vendorcode": "4602441025510",
+    "taste": "Сыр",
+    "img_path": "https://vd.fitsklad.ru/photos/good/e00ca0ea-39cf-4652-99cc-9c2002a946d6-1766500750795.png",
+    "img_name": "e00ca0ea-39cf-4652-99cc-9c2002a946d6-1766500750795.png",
+    "is_adult": false,
+    "brand": {
+      "id": "2cf116c4-0619-4c32-8646-847345acebff",
+      "name": "Фишка"
+    },
+    "nameseria": {
+      "id": "7d3acf65-3dc3-4ef9-af7b-d721610e7767",
+      "name": "Арахис"
+    }
+  },
+  {
+    "id": "14c2b2e4-d8ea-4059-aeee-1cf380f706c2",
+    "vendorcode": "4690388119119",
+    "taste": "Бекон",
+    "img_path": "https://vd.fitsklad.ru/photos/good/9a3924eb-8e69-4adb-a7d4-0a4c1afd0a18-1760167383833.webp",
+    "img_name": "9a3924eb-8e69-4adb-a7d4-0a4c1afd0a18-1760167383833.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "0bed0a0b-e7f8-46b0-9e5a-f30b288bdf40",
+    "vendorcode": "4600294000012",
+    "taste": "соленый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/a16e6666-dafa-4012-8c6f-bfa4e3354d80-1760011798106.webp",
+    "img_name": "a16e6666-dafa-4012-8c6f-bfa4e3354d80-1760011798106.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "9d3db4ca-ede1-4385-9da6-5c610a81fd14",
+      "name": "Джаз"
+    },
+    "nameseria": {
+      "id": "49700933-80d0-4d99-b7fd-7d8f3b0216ac",
+      "name": "Арахис"
+    }
+  },
+  {
+    "id": "ea6e1dd2-88bf-4131-9ca9-74d250daa8ce",
+    "vendorcode": "7622210343239",
+    "taste": "Темный пористый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/38a1126f-0f26-4f52-a7c6-e2bd8bef4cfa-1760023817996.webp",
+    "img_name": "38a1126f-0f26-4f52-a7c6-e2bd8bef4cfa-1760023817996.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "6073dedc-45f5-4a26-a6fc-c6c5df6cd68a",
+      "name": "Воздушный"
+    },
+    "nameseria": {
+      "id": "ab445e60-dc64-4e60-b482-2d80b7bfa169",
+      "name": "Шоколад"
+    }
+  },
+  {
+    "id": "931af7f1-e0d8-4247-841c-9567c8e364b8",
+    "vendorcode": "4690388120931",
+    "taste": "Сыр",
+    "img_path": "https://vd.fitsklad.ru/photos/good/7cd6b87d-c8e6-4699-a681-8dec88da92c9-1760164610033.webp",
+    "img_name": "7cd6b87d-c8e6-4699-a681-8dec88da92c9-1760164610033.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "3186767f-9c89-44f8-bfcd-d9c7d58601f0",
+    "vendorcode": "4690388130955",
+    "taste": "Сметана Лук",
+    "img_path": "https://vd.fitsklad.ru/photos/good/1d9cf983-a158-48f6-a591-bcd96b816e63-1760166289808.webp",
+    "img_name": "1d9cf983-a158-48f6-a591-bcd96b816e63-1760166289808.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "a3513f1d-1ba0-4ee5-ae0c-e475803e56c4",
+    "vendorcode": "4660085510915",
+    "taste": "ШОКОЛАД",
+    "img_path": "https://vd.fitsklad.ru/photos/good/34c9e80d-b6ed-4e13-b98d-c061afe7ee9d-1760019911944.webp",
+    "img_name": "34c9e80d-b6ed-4e13-b98d-c061afe7ee9d-1760019911944.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "79da84db-6421-4128-b5ab-97d9a87ef9ce",
+      "name": "M&M'S"
+    },
+    "nameseria": {
+      "id": "f1fe0c79-b4b1-477b-93db-2fb1f0d273ee",
+      "name": "Драже"
+    }
+  },
+  {
+    "id": "39fa7395-b537-470d-a797-82c7acf76092",
+    "vendorcode": "7622210345806",
+    "taste": "Карамель",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b27500ae-9801-4eec-a1be-8654f2bcfb2d-1760010207668.webp",
+    "img_name": "b27500ae-9801-4eec-a1be-8654f2bcfb2d-1760010207668.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1cedadcc-a22a-4173-9753-e4e9e0bd101b",
+      "name": "Milka"
+    },
+    "nameseria": {
+      "id": "8c12da81-cb57-4586-ac87-40f112466249",
+      "name": "Шоколад"
+    }
+  },
+  {
+    "id": "8e93c48a-2c24-4f7b-b7ce-a054d1cf257c",
+    "vendorcode": "7622201427184",
+    "taste": "Изюм-Фундук",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b0ed7600-68a6-4108-9f64-0ec7d32a067e-1760020429264.webp",
+    "img_name": "b0ed7600-68a6-4108-9f64-0ec7d32a067e-1760020429264.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "f2373ec9-0497-4e9a-b7bb-0f8cd19d773a",
+      "name": "Альпен Голд"
+    },
+    "nameseria": {
+      "id": "2f3232b3-ce87-4ae9-96f6-97c089b672f1",
+      "name": "Шоколад"
+    }
+  },
+  {
+    "id": "19b1c765-9441-4859-9304-82b782baa539",
+    "vendorcode": "4600494600463",
+    "taste": "Чай Зеленый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/3c69f201-b36b-456a-8d89-4b1afa2e24e3-1760177194128.webp",
+    "img_name": "3c69f201-b36b-456a-8d89-4b1afa2e24e3-1760177194128.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "42877b69-9ec4-46cd-a097-e0c6aa03d6eb",
+      "name": "Lipton"
+    },
+    "nameseria": {
+      "id": "a7bfb693-b577-4178-964b-6641e72fd1cc",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "74f2df61-fc7f-4da3-a6f2-25990a565702",
+    "vendorcode": "4631145650841",
+    "taste": "Смесь орехов",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f8d7f893-1bfb-428e-8699-8023b79c10ae-1760017444686.webp",
+    "img_name": "f8d7f893-1bfb-428e-8699-8023b79c10ae-1760017444686.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "4ff4f331-36b4-422c-9367-b0ae740e82af",
+      "name": "Студенческая"
+    },
+    "nameseria": {
+      "id": "804de971-ea38-41af-b99a-399326cbbb11",
+      "name": "Ореховая смесь"
+    }
+  },
+  {
+    "id": "63feefe5-c62e-4327-b3b8-a2830982e38a",
+    "vendorcode": "4690329004542",
+    "taste": "обжаренные, соленые",
+    "img_path": "https://vd.fitsklad.ru/photos/good/60f258e5-3326-4346-8cbf-41e801c70439-1760018636807.webp",
+    "img_name": "60f258e5-3326-4346-8cbf-41e801c70439-1760018636807.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "3f3590ae-fe5c-4eea-beb7-32d63fe6ee3b",
+      "name": "BEERKA"
+    },
+    "nameseria": {
+      "id": "a5fa2a78-faef-4243-ae21-d3c7230812d5",
+      "name": "Фисташки"
+    }
+  },
+  {
+    "id": "0b05b7e2-166e-4e40-b93b-4d987c814e34",
+    "vendorcode": "4600823031098",
+    "taste": "с шоколадной начинкой",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b3f49dbd-d149-45b9-b9a9-899d5cd79ed6-1760019618051.webp",
+    "img_name": "b3f49dbd-d149-45b9-b9a9-899d5cd79ed6-1760019618051.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "efdb2982-cfd2-4437-b55e-f46427c348e2",
+      "name": "Бабаевский"
+    },
+    "nameseria": {
+      "id": "2ff84af8-4c02-4684-8e31-06c0d0fc3cd7",
+      "name": "Батончик"
+    }
+  },
+  {
+    "id": "6f7094e7-127e-4e03-b95e-84ff6998f827",
+    "vendorcode": "4690388117252",
+    "taste": "Кальмар",
+    "img_path": "https://vd.fitsklad.ru/photos/good/4ef39cf4-77b0-41bf-9370-e19f49b6737a-1760167651695.webp",
+    "img_name": "4ef39cf4-77b0-41bf-9370-e19f49b6737a-1760167651695.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c992e578-3365-4528-af0f-8f5573490a5a",
+      "name": "Хрустим"
+    },
+    "nameseria": {
+      "id": "543eaf03-d2ce-4921-adfd-64cbfc00d71e",
+      "name": "Сухарики"
+    }
+  },
+  {
+    "id": "ec120bd2-df0a-4ffa-92a8-9a4c72e17990",
+    "vendorcode": "7622202048388",
+    "taste": "Цельный Фундук",
+    "img_path": "https://vd.fitsklad.ru/photos/good/ff60260d-9ad3-4801-b16b-1aca9e90de38-1760010434668.webp",
+    "img_name": "ff60260d-9ad3-4801-b16b-1aca9e90de38-1760010434668.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1cedadcc-a22a-4173-9753-e4e9e0bd101b",
+      "name": "Milka"
+    },
+    "nameseria": {
+      "id": "8c12da81-cb57-4586-ac87-40f112466249",
+      "name": "Шоколад"
+    }
+  },
+  {
+    "id": "e75fbf90-0e5f-455e-8dc3-971719c877f3",
+    "vendorcode": "7622210357915",
+    "taste": "молочный шоколад; арахис; изюм",
+    "img_path": "https://vd.fitsklad.ru/photos/good/701e2f89-b1a5-499f-ba9a-8cb32f61ed76-1760024596617.webp",
+    "img_name": "701e2f89-b1a5-499f-ba9a-8cb32f61ed76-1760024596617.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "53ede8c0-51a9-4d71-90bc-1c748519042d",
+      "name": "Пикник"
+    },
+    "nameseria": {
+      "id": "f45163de-2e67-4700-86a7-41ad88147a32",
+      "name": "Биг"
+    }
+  },
+  {
+    "id": "5ad23508-4c59-4d49-9630-4c83bd0b8697",
+    "vendorcode": "8445290552150",
+    "taste": "Белый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/a068be8f-0895-4ded-baf4-d0fa75991227-1760025006450.webp",
+    "img_name": "a068be8f-0895-4ded-baf4-d0fa75991227-1760025006450.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "0cee27c3-0cb0-4f13-a67f-c058eb9e9260",
+      "name": "KitKat"
+    },
+    "nameseria": {
+      "id": "58920d5c-6e9b-4998-af0b-51aeecf75a94",
+      "name": "Шоколадный батончик"
+    }
+  },
+  {
+    "id": "c4fe0590-1b19-42ab-986b-cedd975a716a",
+    "vendorcode": "46230966",
+    "taste": "соленая карамель",
+    "img_path": "https://vd.fitsklad.ru/photos/good/448068c5-fe5f-488d-99c2-5026c08d846b-1760011517384.webp",
+    "img_name": "448068c5-fe5f-488d-99c2-5026c08d846b-1760011517384.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "5926f296-7126-4b68-8f42-517022ad984f",
+      "name": "Meller"
+    },
+    "nameseria": {
+      "id": "1aadee97-95a8-4086-87aa-604fa0c9079a",
+      "name": "Ирис"
+    }
+  },
+  {
+    "id": "0fc7c33b-f865-4be0-9d01-0c6b6425cbf4",
+    "vendorcode": "4690388104344",
+    "taste": "Сливочный Лосось",
+    "img_path": "https://vd.fitsklad.ru/photos/good/7239bab8-959b-4488-96cd-0e186d3da9c0-1760168525176.webp",
+    "img_name": "7239bab8-959b-4488-96cd-0e186d3da9c0-1760168525176.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c992e578-3365-4528-af0f-8f5573490a5a",
+      "name": "Хрустим"
+    },
+    "nameseria": {
+      "id": "543eaf03-d2ce-4921-adfd-64cbfc00d71e",
+      "name": "Сухарики"
+    }
+  },
+  {
+    "id": "2c5d1770-620b-41e8-99a5-658d77d8b5b7",
+    "vendorcode": "4660085510908",
+    "taste": "АРАХИС",
+    "img_path": "https://vd.fitsklad.ru/photos/good/8eb2381c-1a25-4166-ac3e-f00a6339fe22-1760020111287.webp",
+    "img_name": "8eb2381c-1a25-4166-ac3e-f00a6339fe22-1760020111287.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "79da84db-6421-4128-b5ab-97d9a87ef9ce",
+      "name": "M&M'S"
+    },
+    "nameseria": {
+      "id": "f1fe0c79-b4b1-477b-93db-2fb1f0d273ee",
+      "name": "Драже"
+    }
+  },
+  {
+    "id": "d41b7986-517e-4c6d-8794-4c8cc2e9ef43",
+    "vendorcode": "4660298503599",
+    "taste": "Лук и сметана",
+    "img_path": "https://vd.fitsklad.ru/photos/good/cf269967-4b26-48c5-957a-4ad4a9f762a8-1761119446387.webp",
+    "img_name": "cf269967-4b26-48c5-957a-4ad4a9f762a8-1761119446387.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e74394f3-a8c2-4886-a3ed-6db29b965557",
+      "name": "BOMBBAR"
+    },
+    "nameseria": {
+      "id": "36dad849-c6fd-44bd-b7aa-af3dfa6e2293",
+      "name": "Палочки кукурузные"
+    }
+  },
+  {
+    "id": "041e04c9-2517-4688-9eb9-1dfed3ab788b",
+    "vendorcode": "4600494687235",
+    "taste": "Кола без сахара",
+    "img_path": "https://vd.fitsklad.ru/photos/good/521573ec-fab2-4131-b18e-dba2182b7150-1760175788455.webp",
+    "img_name": "521573ec-fab2-4131-b18e-dba2182b7150-1760175788455.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "7fd5826c-e82d-42bd-8819-3065a325c5a5",
+      "name": "Evervess"
+    },
+    "nameseria": {
+      "id": "a402faae-d81e-4d11-984a-8c235c6ca73f",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "29814551-3488-4f4d-9742-f360d9dcb961",
+    "vendorcode": "3800020401101",
+    "taste": "Лесной орех",
+    "img_path": "https://vd.fitsklad.ru/photos/good/68a6b17a-3fe3-495b-bf88-cc81d34cdc27-1760024842772.webp",
+    "img_name": "68a6b17a-3fe3-495b-bf88-cc81d34cdc27-1760024842772.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "0cee27c3-0cb0-4f13-a67f-c058eb9e9260",
+      "name": "KitKat"
+    },
+    "nameseria": {
+      "id": "58920d5c-6e9b-4998-af0b-51aeecf75a94",
+      "name": "Шоколадный батончик"
+    }
+  },
+  {
+    "id": "af255138-1e5a-4979-af39-9b3f08cf27e7",
+    "vendorcode": "4690388123734",
+    "taste": "Телятина со специями",
+    "img_path": "https://vd.fitsklad.ru/photos/good/bc47eb8e-95cc-4052-8e6a-7e287ddaca08-1760168742972.png",
+    "img_name": "bc47eb8e-95cc-4052-8e6a-7e287ddaca08-1760168742972.png",
+    "is_adult": false,
+    "brand": {
+      "id": "c992e578-3365-4528-af0f-8f5573490a5a",
+      "name": "Хрустим"
+    },
+    "nameseria": {
+      "id": "543eaf03-d2ce-4921-adfd-64cbfc00d71e",
+      "name": "Сухарики"
+    }
+  },
+  {
+    "id": "2d73c1b6-ff7a-46f1-9ef7-007acc4e6560",
+    "vendorcode": "4626016156584",
+    "taste": "С КОСТОЧКОЙ",
+    "img_path": "https://vd.fitsklad.ru/photos/good/e9cd9f5d-5c8e-4d10-a932-4bed87643680-1760027423129.webp",
+    "img_name": "e9cd9f5d-5c8e-4d10-a932-4bed87643680-1760027423129.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "ba02c7e9-55bc-4052-8eba-892c6a4d0729",
+      "name": "Финики"
+    },
+    "nameseria": {
+      "id": "7bca930e-cf12-4a9f-b88f-18ce42da2e8f",
+      "name": "Сухофрукты"
+    }
+  },
+  {
+    "id": "da33900d-c733-4f51-97ab-04e47dd30655",
+    "vendorcode": "4605142053783",
+    "taste": "арахис с мягкой карамелью",
+    "img_path": "https://vd.fitsklad.ru/photos/good/13d73f48-b8d4-4788-b74b-bbb769d9e890-1760011273952.webp",
+    "img_name": "13d73f48-b8d4-4788-b74b-bbb769d9e890-1760011273952.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "88d9eb5c-2c93-492d-8096-0d6942194bd3",
+      "name": "Золотой СТЕП"
+    },
+    "nameseria": {
+      "id": "0d99fd4f-49c8-4c6a-a5ea-a858318ac19e",
+      "name": "Батончик шоколадный"
+    }
+  },
+  {
+    "id": "25a40a45-96de-443a-9028-5baf1bec40f7",
+    "vendorcode": "46164230",
+    "taste": "МЕД /ЛИМОН",
+    "img_path": "https://vd.fitsklad.ru/photos/good/87f52791-dd1a-4b10-91b2-9cb7d0cdc636-1760026118306.webp",
+    "img_name": "87f52791-dd1a-4b10-91b2-9cb7d0cdc636-1760026118306.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "efc75d0a-77f7-4b2b-8265-f21dba4cfc53",
+      "name": "Halls"
+    },
+    "nameseria": {
+      "id": "14bb62a6-4c55-43f7-b454-654c7052f5c3",
+      "name": "КАРАМЕЛЬ ЛЕДЕНЕЦ"
+    }
+  },
+  {
+    "id": "30712333-6aef-4eeb-b395-2abfe0b6a287",
+    "vendorcode": "4600494685545",
+    "taste": "Кола",
+    "img_path": "https://vd.fitsklad.ru/photos/good/e32190e6-c1e6-460e-8b40-e248099d6d37-1760176184578.webp",
+    "img_name": "e32190e6-c1e6-460e-8b40-e248099d6d37-1760176184578.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "7fd5826c-e82d-42bd-8819-3065a325c5a5",
+      "name": "Evervess"
+    },
+    "nameseria": {
+      "id": "a402faae-d81e-4d11-984a-8c235c6ca73f",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "f9f76e13-35d5-4539-bc2c-11d5790072cd",
+    "vendorcode": "4680021880490",
+    "taste": "с шоколадом",
+    "img_path": "https://vd.fitsklad.ru/photos/good/770a846b-37b9-45f5-af85-95efffe05399-1777320484238.webp",
+    "img_name": "770a846b-37b9-45f5-af85-95efffe05399-1777320484238.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e75d8d93-0229-4e62-8f0c-f7bead42d346",
+      "name": "яшкино"
+    },
+    "nameseria": {
+      "id": "42ca7e9b-fcb1-4f79-93c3-c96dcfb9df13",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "5d9b9347-09c8-4c25-a612-7c25a9e60367",
+    "vendorcode": "4607015235784",
+    "taste": "клубника",
+    "img_path": "https://vd.fitsklad.ru/photos/good/827fcc3a-f43e-4621-a42d-d72496f8f446-1777320626435.webp",
+    "img_name": "827fcc3a-f43e-4621-a42d-d72496f8f446-1777320626435.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e75d8d93-0229-4e62-8f0c-f7bead42d346",
+      "name": "яшкино"
+    },
+    "nameseria": {
+      "id": "42ca7e9b-fcb1-4f79-93c3-c96dcfb9df13",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "72e792b4-8385-4456-b886-c7c3ca242581",
+    "vendorcode": "43679821",
+    "taste": "шоколад",
+    "img_path": "https://vd.fitsklad.ru/photos/good/d1fdfc5b-6991-495a-8afb-9cb42c3b412a-1777320861739.webp",
+    "img_name": "d1fdfc5b-6991-495a-8afb-9cb42c3b412a-1777320861739.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1a468192-cabc-48bc-9712-0ca43d6409c9",
+      "name": "вафли"
+    },
+    "nameseria": {
+      "id": "0875434c-8f55-477c-b659-36520bc22da3",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "09612006-5df9-4782-88b8-c509c15b89f4",
+    "vendorcode": "4604386037290",
+    "taste": "банан",
+    "img_path": "https://vd.fitsklad.ru/photos/good/a99c16c5-f126-4be4-a16a-508119e0bee2-1777321140110.webp",
+    "img_name": "a99c16c5-f126-4be4-a16a-508119e0bee2-1777321140110.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1a468192-cabc-48bc-9712-0ca43d6409c9",
+      "name": "вафли"
+    },
+    "nameseria": {
+      "id": "0875434c-8f55-477c-b659-36520bc22da3",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "1dee0738-d79b-46bd-af4c-459d001df978",
+    "vendorcode": "4604386040078",
+    "taste": "какао с кремом",
+    "img_path": "https://vd.fitsklad.ru/photos/good/e2b19344-880e-4516-80da-1e845a34dfc1-1777321248796.webp",
+    "img_name": "e2b19344-880e-4516-80da-1e845a34dfc1-1777321248796.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1a468192-cabc-48bc-9712-0ca43d6409c9",
+      "name": "вафли"
+    },
+    "nameseria": {
+      "id": "0875434c-8f55-477c-b659-36520bc22da3",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "7ca14fbb-c878-4882-a701-874c1b08609b",
+    "vendorcode": "4833004810797",
+    "taste": "Витаминизированный ",
+    "img_path": "https://vd.fitsklad.ru/photos/good/368b1f09-e754-4a57-a12a-907bea9e38a7-1777321550891.webp",
+    "img_name": "368b1f09-e754-4a57-a12a-907bea9e38a7-1777321550891.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "2ead7f84-b35d-4ad3-ac98-af0219464dae",
+      "name": "болд"
+    },
+    "nameseria": {
+      "id": "c2376aa5-92af-4210-ab59-92280065c01b",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "eee382a4-7b05-4c3e-aa0b-aa677ce273a0",
+    "vendorcode": "4690388116187",
+    "taste": "Соленый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/cca9cbf8-25f7-4ee9-b60c-4894a4731645-1770362119891.webp",
+    "img_name": "cca9cbf8-25f7-4ee9-b60c-4894a4731645-1770362119891.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "ea26be09-4f9a-4ad4-b4d7-dea1281b5456",
+    "vendorcode": "4833004811398",
+    "taste": "барбарис",
+    "img_path": "https://vd.fitsklad.ru/photos/good/5674cca5-705c-4a0d-a47f-03d70c39916f-1777321793320.webp",
+    "img_name": "5674cca5-705c-4a0d-a47f-03d70c39916f-1777321793320.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "2ead7f84-b35d-4ad3-ac98-af0219464dae",
+      "name": "болд"
+    },
+    "nameseria": {
+      "id": "c2376aa5-92af-4210-ab59-92280065c01b",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "f65d3ccc-66df-4076-9091-66e3fcd9a495",
+    "vendorcode": "4833004811091",
+    "taste": "манго-кокос",
+    "img_path": "https://vd.fitsklad.ru/photos/good/7098d72a-fe03-4601-867c-2f584bd1e82f-1777321966519.webp",
+    "img_name": "7098d72a-fe03-4601-867c-2f584bd1e82f-1777321966519.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "2ead7f84-b35d-4ad3-ac98-af0219464dae",
+      "name": "болд"
+    },
+    "nameseria": {
+      "id": "c2376aa5-92af-4210-ab59-92280065c01b",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "1c134bdc-a62c-40ab-b152-85ea9bbea101",
+    "vendorcode": "4690388116101",
+    "taste": "Соленый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/5112b4aa-649b-4f88-b4e8-338747672c11-1770362262657.webp",
+    "img_name": "5112b4aa-649b-4f88-b4e8-338747672c11-1770362262657.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "751c13ce-6569-4370-81db-173f80c5c294",
+    "vendorcode": "8801056066574",
+    "taste": "Сладкий",
+    "img_path": "https://vd.fitsklad.ru/photos/good/efa2c174-84b9-4a7b-8954-a7df3212e407-1770383053485.webp",
+    "img_name": "efa2c174-84b9-4a7b-8954-a7df3212e407-1770383053485.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c7b064c8-2e2c-4888-aea4-0e3e976ecb98",
+      "name": " Lotte"
+    },
+    "nameseria": {
+      "id": "76a7de3d-7e13-4a64-8b2e-9ccdf5ae0ad9",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "5fd1b98b-1363-4643-97dc-5597c82d48df",
+    "vendorcode": "4602441029167",
+    "taste": "Сладкий",
+    "img_path": "https://vd.fitsklad.ru/photos/good/9181dd0c-d962-44a0-9b69-d033a72bca18-1770380487896.webp",
+    "img_name": "9181dd0c-d962-44a0-9b69-d033a72bca18-1770380487896.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "6a7d3265-0f6d-496b-9e6f-ccc867b0e99f",
+      "name": "Черноголовка"
+    },
+    "nameseria": {
+      "id": "5a94e473-3908-4ad5-ad56-bd1f4f9b7aef",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "9e2c7626-2f12-44b6-9508-4ea814c7e6ce",
+    "vendorcode": "4607167571358",
+    "taste": "Соленый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/704c5d7d-346e-4b44-b9ff-85a025500e54-1770381271148.webp",
+    "img_name": "704c5d7d-346e-4b44-b9ff-85a025500e54-1770381271148.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "a77b5a07-6add-4f71-91c8-0e4e0e6f5e54",
+      "name": "NewFoods"
+    },
+    "nameseria": {
+      "id": "c18a389e-dc41-4612-adf5-c86d5170d41b",
+      "name": "Снек"
+    }
+  },
+  {
+    "id": "8705e214-653e-49f4-a396-bea4313a8581",
+    "vendorcode": "4600494680311",
+    "taste": "Сладкий",
+    "img_path": "https://vd.fitsklad.ru/photos/good/894cec4b-829c-493d-b507-1447d4043dab-1770363257703.webp",
+    "img_name": "894cec4b-829c-493d-b507-1447d4043dab-1770363257703.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "69bc4c4f-56d9-414a-83bd-ade3c22c7277",
+      "name": "Драйв Ми"
+    },
+    "nameseria": {
+      "id": "721253e2-0a04-410e-b86a-9159976cc863",
+      "name": "Энергетики "
+    }
+  },
+  {
+    "id": "f1e9e470-93bd-402a-9ecc-0c59936c8357",
+    "vendorcode": "5201360521210",
+    "taste": "Сладкий",
+    "img_path": "https://vd.fitsklad.ru/photos/good/57302318-a069-4a2a-87a2-c9dd4a704080-1770381573733.webp",
+    "img_name": "57302318-a069-4a2a-87a2-c9dd4a704080-1770381573733.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "ac972409-aaff-4567-a44f-8a5adc013757",
+      "name": "7Days"
+    },
+    "nameseria": {
+      "id": "056c1f4b-9f11-4a32-a903-975eb0d99861",
+      "name": "Снек"
+    }
+  },
+  {
+    "id": "cdbaf965-e37b-43b2-b7f7-3057a25c91ab",
+    "vendorcode": "4690388116125",
+    "taste": "Соленый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/5828bed9-964f-490a-a599-898987bc9481-1770361890784.webp",
+    "img_name": "5828bed9-964f-490a-a599-898987bc9481-1770361890784.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b75e475d-7389-4959-a026-d1c47888f1a4",
+      "name": "Lay's"
+    },
+    "nameseria": {
+      "id": "40026b39-4c6e-4e20-88ff-f575de7e9666",
+      "name": "Чипсы"
+    }
+  },
+  {
+    "id": "b74add1f-88f4-48c4-abf5-25b60671392d",
+    "vendorcode": "4607192190081",
+    "taste": "Сладкий",
+    "img_path": "https://vd.fitsklad.ru/photos/good/522febe1-126e-4f05-9f5c-97272146c77d-1770208670066.jpg",
+    "img_name": "522febe1-126e-4f05-9f5c-97272146c77d-1770208670066.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "e12acd31-b6b9-41d1-a16c-903845240841",
+      "name": "NATUREFOODS"
+    },
+    "nameseria": {
+      "id": "1ca7b934-77b9-4d33-b802-b30113733d9a",
+      "name": "Сухофрукты"
+    }
+  },
+  {
+    "id": "28625498-99a5-43fa-8260-04f9ba7354c1",
+    "vendorcode": "8801056066581",
+    "taste": "Сладкий",
+    "img_path": "https://vd.fitsklad.ru/photos/good/1e723f2c-58d1-42fe-b924-62df92accde6-1770380305911.webp",
+    "img_name": "1e723f2c-58d1-42fe-b924-62df92accde6-1770380305911.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c7b064c8-2e2c-4888-aea4-0e3e976ecb98",
+      "name": " Lotte"
+    },
+    "nameseria": {
+      "id": "76a7de3d-7e13-4a64-8b2e-9ccdf5ae0ad9",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "393cd110-dd7a-4758-8543-a4343bae6b6a",
+    "vendorcode": "4600680000268",
+    "taste": "Сладкий",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c5a2c425-6e3d-4ffd-b641-5c4413a90b79-1770381455165.webp",
+    "img_name": "c5a2c425-6e3d-4ffd-b641-5c4413a90b79-1770381455165.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "6ea86119-34ec-4381-a382-45ebb233ad9d",
+      "name": "Бон Пари"
+    },
+    "nameseria": {
+      "id": "c8417962-5b3d-40d4-99fa-811c6c6df84b",
+      "name": "Мармелад"
+    }
+  },
+  {
+    "id": "53a463ab-aa69-494f-a0a2-92e7873cad58",
+    "vendorcode": "4602441005079",
+    "taste": "Сладкий",
+    "img_path": "https://vd.fitsklad.ru/photos/good/80220be3-3009-44a9-841d-306afe6c65d9-1772434235287.png",
+    "img_name": "80220be3-3009-44a9-841d-306afe6c65d9-1772434235287.png",
+    "is_adult": false,
+    "brand": {
+      "id": "6a7d3265-0f6d-496b-9e6f-ccc867b0e99f",
+      "name": "Черноголовка"
+    },
+    "nameseria": {
+      "id": "5a94e473-3908-4ad5-ad56-bd1f4f9b7aef",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "3c67f7c3-8967-418a-889a-b13892420c27",
+    "vendorcode": "8593893118362",
+    "taste": "Сладкий",
+    "img_path": "https://vd.fitsklad.ru/photos/good/0ef0d86b-f3fe-4ae8-a60d-447323c6b256-1770381376088.webp",
+    "img_name": "0ef0d86b-f3fe-4ae8-a60d-447323c6b256-1770381376088.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "6ea86119-34ec-4381-a382-45ebb233ad9d",
+      "name": "Бон Пари"
+    },
+    "nameseria": {
+      "id": "c8417962-5b3d-40d4-99fa-811c6c6df84b",
+      "name": "Мармелад"
+    }
+  },
+  {
+    "id": "a648e688-838d-4b17-9de0-e8ec1575b0a9",
+    "vendorcode": "4602441005086",
+    "taste": "Тархун",
+    "img_path": "https://vd.fitsklad.ru/photos/good/897631c0-2621-4086-ae93-870b3f425336-1772434478344.webp",
+    "img_name": "897631c0-2621-4086-ae93-870b3f425336-1772434478344.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "6a7d3265-0f6d-496b-9e6f-ccc867b0e99f",
+      "name": "Черноголовка"
+    },
+    "nameseria": {
+      "id": "5a94e473-3908-4ad5-ad56-bd1f4f9b7aef",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "bdfcca13-1e29-4d85-ac88-ee78e3922393",
+    "vendorcode": "4660298503926",
+    "taste": "вишня",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c0c14910-9bc5-4b8a-9cea-790d9167e099-1777283595097.png",
+    "img_name": "c0c14910-9bc5-4b8a-9cea-790d9167e099-1777283595097.png",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "c61477d9-2fb0-489f-86ca-a4094b2be5ef",
+    "vendorcode": "67432109",
+    "taste": "фруктовое ассорти",
+    "img_path": "https://vd.fitsklad.ru/photos/good/4c0308ce-8aaf-4534-8d92-b81e09b3e421-1777322277664.webp",
+    "img_name": "4c0308ce-8aaf-4534-8d92-b81e09b3e421-1777322277664.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "55ccfb7d-613b-4a80-95d4-888fc63d7af3",
+      "name": "тимоша"
+    },
+    "nameseria": {
+      "id": "66e2b3e5-53e6-417e-b501-aa2e3e48e96b",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "787c45ef-f805-4976-a477-93e8a96e5a2a",
+    "vendorcode": "4833004811374",
+    "taste": "витаминизированный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b93ac601-4aa3-4cc5-9168-dd905a6764fd-1778678047889.webp",
+    "img_name": "b93ac601-4aa3-4cc5-9168-dd905a6764fd-1778678047889.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "2ead7f84-b35d-4ad3-ac98-af0219464dae",
+      "name": "болд"
+    },
+    "nameseria": {
+      "id": "c2376aa5-92af-4210-ab59-92280065c01b",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "92f38e04-7f31-478a-b928-92fed1853603",
+    "vendorcode": "4660298503940",
+    "taste": "лимонный с маком",
+    "img_path": "https://vd.fitsklad.ru/photos/good/fd2656b5-2950-4d57-824d-2e1acd2c4cea-1776671421608.jpg",
+    "img_name": "fd2656b5-2950-4d57-824d-2e1acd2c4cea-1776671421608.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "f7cc0456-5567-4108-b442-cd1e73f7698b",
+    "vendorcode": "4660298500703",
+    "taste": "вишневый брауни",
+    "img_path": "https://vd.fitsklad.ru/photos/good/cdfd7ee8-22e9-405e-bd0b-9a4b363414b8-1776671467403.jpg",
+    "img_name": "cdfd7ee8-22e9-405e-bd0b-9a4b363414b8-1776671467403.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "c90a0f54-11c5-465a-b406-7eb7307d769e",
+    "vendorcode": "4660298500680",
+    "taste": "моккачино",
+    "img_path": "https://vd.fitsklad.ru/photos/good/392e12ce-c491-4e33-8d6d-4e38e8b87fa7-1776671533524.jpg",
+    "img_name": "392e12ce-c491-4e33-8d6d-4e38e8b87fa7-1776671533524.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "d3c00dee-4833-419d-9c17-af4d1a796a32",
+    "vendorcode": "4600495000019",
+    "taste": "шоколад",
+    "img_path": "https://vd.fitsklad.ru/photos/good/26d2cf10-1161-43a2-be77-c5232d04a142-1777322715210.webp",
+    "img_name": "26d2cf10-1161-43a2-be77-c5232d04a142-1777322715210.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c5de276b-d41e-4df9-9539-97f43ac97981",
+      "name": "супер контик"
+    },
+    "nameseria": {
+      "id": "df3d9d21-aba5-41de-bb44-b47f5fcf88ac",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "feaf2079-cf74-40e7-9ccb-10995ebe9084",
+    "vendorcode": "34235678",
+    "taste": "шоколадная начинка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/64cef791-5072-45fb-a648-de06feebe3fb-1777350953027.webp",
+    "img_name": "64cef791-5072-45fb-a648-de06feebe3fb-1777350953027.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "d8f13da0-9c5b-4ec7-8753-be64ab7feba9",
+      "name": "MIRAI"
+    },
+    "nameseria": {
+      "id": "81a1c3c4-75df-4302-a9f3-9d99a4633288",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "debea9f4-0a2a-4e42-9459-6bb225831ba6",
+    "vendorcode": "4670018803885",
+    "taste": "Сметанный крем",
+    "img_path": "https://vd.fitsklad.ru/photos/good/6c38a95c-4116-491e-ae12-79f5752e3bef-1777351234671.webp",
+    "img_name": "6c38a95c-4116-491e-ae12-79f5752e3bef-1777351234671.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "a37097f1-68bd-40b1-81da-ca2feeb793f6",
+      "name": "веселая телочка"
+    },
+    "nameseria": {
+      "id": "a2db3a14-99ee-4a16-8e1f-8ba506bb8db8",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "fb7fb4a7-4487-4b5b-a21d-28b767bee32a",
+    "vendorcode": "4607015235760",
+    "taste": "апельсин",
+    "img_path": "https://vd.fitsklad.ru/photos/good/7a335a44-eac8-421c-b94f-ba941f49c14e-1777351381260.webp",
+    "img_name": "7a335a44-eac8-421c-b94f-ba941f49c14e-1777351381260.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e75d8d93-0229-4e62-8f0c-f7bead42d346",
+      "name": "яшкино"
+    },
+    "nameseria": {
+      "id": "42ca7e9b-fcb1-4f79-93c3-c96dcfb9df13",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "c241b757-d648-4670-8d39-3c4e059953e6",
+    "vendorcode": "54321890",
+    "taste": "сгущенка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/954ad9b7-7af5-4e6d-800b-11018ecf9113-1777351586685.webp",
+    "img_name": "954ad9b7-7af5-4e6d-800b-11018ecf9113-1777351586685.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "29f17ac9-8a55-4922-a437-12ceb6a1db09",
+      "name": "Ковис"
+    },
+    "nameseria": {
+      "id": "fa4f7813-faa7-420a-bfe5-6f9e131ea7e2",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "df2c078d-0141-47c8-bfce-c6ee242b3773",
+    "vendorcode": "4680021880643",
+    "taste": "молочный шоколад",
+    "img_path": "https://vd.fitsklad.ru/photos/good/e008e1d3-7a87-4838-a5f0-09e404643171-1777351762194.webp",
+    "img_name": "e008e1d3-7a87-4838-a5f0-09e404643171-1777351762194.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1a468192-cabc-48bc-9712-0ca43d6409c9",
+      "name": "вафли"
+    },
+    "nameseria": {
+      "id": "0875434c-8f55-477c-b659-36520bc22da3",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "234e2b1f-2f70-4b71-a999-6c8bf2c02fdc",
+    "vendorcode": "8801056029951",
+    "taste": "арабика",
+    "img_path": "https://vd.fitsklad.ru/photos/good/3bab3df4-2093-4481-95d3-e697af384ec3-1777351978202.webp",
+    "img_name": "3bab3df4-2093-4481-95d3-e697af384ec3-1777351978202.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c7b064c8-2e2c-4888-aea4-0e3e976ecb98",
+      "name": " Lotte"
+    },
+    "nameseria": {
+      "id": "76a7de3d-7e13-4a64-8b2e-9ccdf5ae0ad9",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "eb095a89-032e-49be-8d32-c5275b509010",
+    "vendorcode": "4601713009180",
+    "taste": "фруктовая начинка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/5921d6a0-18e0-4985-baf5-9fa3e61b4660-1778155642877.jpg",
+    "img_name": "5921d6a0-18e0-4985-baf5-9fa3e61b4660-1778155642877.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "4e107beb-4320-44c7-83d6-70910d6512a5",
+      "name": "пряник"
+    },
+    "nameseria": {
+      "id": "88713b40-f5e8-44ac-bdb6-fb5a675b3391",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "d10a2c71-2999-4033-8d3f-135b001295e7",
+    "vendorcode": "76543210",
+    "taste": "мультифрукт ",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f7391794-9eb4-4890-bad9-bcd8b4aa09e1-1777352165819.webp",
+    "img_name": "f7391794-9eb4-4890-bad9-bcd8b4aa09e1-1777352165819.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b7821c22-3738-4d56-9717-326c0e32c53f",
+      "name": "добрый"
+    },
+    "nameseria": {
+      "id": "7deee4d5-7f64-4370-9c06-99493260d908",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "a2e3c0b1-a9aa-4f63-9f83-0d26529c790a",
+    "vendorcode": "4680046722379",
+    "taste": "банановый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/8c1b5fd5-4a54-40b8-8154-b92842f9f4e7-1777283420083.jpg",
+    "img_name": "8c1b5fd5-4a54-40b8-8154-b92842f9f4e7-1777283420083.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "eff02f0f-2e09-4335-87e5-e70a29c95e62",
+    "vendorcode": "4680046722263",
+    "taste": "фундук",
+    "img_path": "https://vd.fitsklad.ru/photos/good/5885c0b7-38ef-4634-8e27-90b2f14dd172-1777283439239.jpg",
+    "img_name": "5885c0b7-38ef-4634-8e27-90b2f14dd172-1777283439239.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "5fd1db90-cdae-41a8-a0aa-7a6a0124c0a9",
+    "vendorcode": "4610169561098",
+    "taste": "бекон с паприкой",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c3f462f0-ee8a-413a-84bb-f95fdad11a95-1776256565415.webp",
+    "img_name": "c3f462f0-ee8a-413a-84bb-f95fdad11a95-1776256565415.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "d06653e9-162e-4436-92db-d388c5393c9e",
+    "vendorcode": "4610169567571",
+    "taste": "сладкий чили",
+    "img_path": "https://vd.fitsklad.ru/photos/good/5723d0fe-340d-4507-8183-1f808eca6d68-1776255047654.webp",
+    "img_name": "5723d0fe-340d-4507-8183-1f808eca6d68-1776255047654.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "41bff332-4cc3-435b-a356-c639f63b7101",
+    "vendorcode": "4660298503538",
+    "taste": "кукурузные",
+    "img_path": "https://vd.fitsklad.ru/photos/good/1635438f-f2ef-4763-aa2b-e9bdc4ce7cb5-1776254697592.webp",
+    "img_name": "1635438f-f2ef-4763-aa2b-e9bdc4ce7cb5-1776254697592.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "2964a5c5-ebb9-42bc-ad15-b2fb944a88fb",
+    "vendorcode": "4610169563412",
+    "taste": "малиновый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c4a02ef9-1d09-4023-a585-325c21ea2286-1776259480124.png",
+    "img_name": "c4a02ef9-1d09-4023-a585-325c21ea2286-1776259480124.png",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "94a24d40-8079-4e13-9ccb-4530c8cf960a",
+    "vendorcode": "4610169568387",
+    "taste": "вареная сгущенка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/d475a918-8487-464f-af48-b8efadec31f6-1776259509983.png",
+    "img_name": "d475a918-8487-464f-af48-b8efadec31f6-1776259509983.png",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "757b6ccc-001f-43ab-bc4e-052ed35e523b",
+    "vendorcode": "4680046720856",
+    "taste": "апельсин-имбирь",
+    "img_path": "https://vd.fitsklad.ru/photos/good/bbbad11b-9956-4ce1-90e2-949d91bf3635-1776252490940.jpg",
+    "img_name": "bbbad11b-9956-4ce1-90e2-949d91bf3635-1776252490940.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "0c395025-f1ca-4a52-a568-f417f6bb4c01",
+    "vendorcode": "11111117",
+    "taste": "творог",
+    "img_path": "https://vd.fitsklad.ru/photos/good/9bf262e8-2171-4e6d-8d1c-ae6770cd74d4-1777270204937.webp",
+    "img_name": "9bf262e8-2171-4e6d-8d1c-ae6770cd74d4-1777270204937.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "d7a3f157-683a-4a47-ad3c-e06b73aae305",
+    "vendorcode": "11111116",
+    "taste": "вишня",
+    "img_path": "https://vd.fitsklad.ru/photos/good/d4be7364-290c-4485-a364-d1d5bf713b4a-1777270055831.webp",
+    "img_name": "d4be7364-290c-4485-a364-d1d5bf713b4a-1777270055831.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "e1da6626-6e64-47d9-af79-7b3bad375720",
+    "vendorcode": "11111115",
+    "taste": "ветчина сыр",
+    "img_path": "https://vd.fitsklad.ru/photos/good/8df2c183-46dc-4dcd-8543-d662063f0fb4-1777269944598.webp",
+    "img_name": "8df2c183-46dc-4dcd-8543-d662063f0fb4-1777269944598.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "0f1c6efb-321e-450e-8cd2-3a07cc90a645",
+    "vendorcode": "4610169568295",
+    "taste": "мохито-лимон",
+    "img_path": "https://vd.fitsklad.ru/photos/good/4778ad43-a265-4de4-97c3-e1c9bc2f1e2d-1776263865923.webp",
+    "img_name": "4778ad43-a265-4de4-97c3-e1c9bc2f1e2d-1776263865923.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "1f56fe2f-e03b-469e-948a-47106207a64f",
+    "vendorcode": "4610169567533",
+    "taste": "освежающий",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b27277e9-a4a4-4be6-b033-63c62ba5f185-1776263524599.webp",
+    "img_name": "b27277e9-a4a4-4be6-b033-63c62ba5f185-1776263524599.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "09a0d50f-587c-4f10-a861-8869c863b70b",
+    "vendorcode": "4610169568752",
+    "taste": "лайм-мята",
+    "img_path": "https://vd.fitsklad.ru/photos/good/ada9a635-1ab7-4157-b517-1fa67d356d49-1776263156979.webp",
+    "img_name": "ada9a635-1ab7-4157-b517-1fa67d356d49-1776263156979.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "b24d5820-31c5-4977-a2c5-ffafa762979f",
+    "vendorcode": "4660298501076",
+    "taste": "ягодный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/dee642f0-cdaa-4396-9224-09d584f1eef7-1776262997527.webp",
+    "img_name": "dee642f0-cdaa-4396-9224-09d584f1eef7-1776262997527.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "96cc8962-2038-4892-be0c-5717934d0b26",
+    "vendorcode": "4660298501250",
+    "taste": "гуава-личи",
+    "img_path": "https://vd.fitsklad.ru/photos/good/86ed2db8-505d-41ac-a650-8ef5d1d14f7d-1776262754519.webp",
+    "img_name": "86ed2db8-505d-41ac-a650-8ef5d1d14f7d-1776262754519.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "4cfbcdde-56ff-4a2a-8a09-ac94557e3ae0",
+    "vendorcode": "4610169566000",
+    "taste": "оригинальный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/6f5a93d6-9a20-4e58-a4a5-c10de8393520-1776261979834.webp",
+    "img_name": "6f5a93d6-9a20-4e58-a4a5-c10de8393520-1776261979834.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "421e38da-1b24-4d26-8e4e-c3f62e6cca80",
+    "vendorcode": "4610169568271",
+    "taste": "гуарана",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f7680670-875a-4356-9da2-3831fad1b3df-1776261354036.webp",
+    "img_name": "f7680670-875a-4356-9da2-3831fad1b3df-1776261354036.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "c67127d1-c58f-43a1-9cee-0e9a880aa6d5",
+    "vendorcode": "4670226570203",
+    "taste": "апельсин",
+    "img_path": "https://vd.fitsklad.ru/photos/good/dda15739-9f76-472e-a100-1839e5b30a2a-1776668418929.webp",
+    "img_name": "dda15739-9f76-472e-a100-1839e5b30a2a-1776668418929.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "e85c8865-fd87-4e16-a723-f3c48a429c07",
+    "vendorcode": "4610169568479",
+    "taste": "Мохито энерджи",
+    "img_path": "https://vd.fitsklad.ru/photos/good/367e2a19-8714-49a0-be6c-f3fe67b2876d-1776668280496.webp",
+    "img_name": "367e2a19-8714-49a0-be6c-f3fe67b2876d-1776668280496.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "0321681e-7a67-472d-9eab-e399ec81574c",
+    "vendorcode": "4670226570388",
+    "taste": "пина колада",
+    "img_path": "https://vd.fitsklad.ru/photos/good/074dac79-7f04-4592-a7ad-a3457dceefde-1776668056932.webp",
+    "img_name": "074dac79-7f04-4592-a7ad-a3457dceefde-1776668056932.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "045d9d43-5148-40e8-a4f2-082bc62cfe31",
+    "vendorcode": "4610169562255",
+    "taste": "имбирь и лемонграсс",
+    "img_path": "https://vd.fitsklad.ru/photos/good/7418fef7-60c2-4663-9b60-7ed3cf00fec8-1776667876932.webp",
+    "img_name": "7418fef7-60c2-4663-9b60-7ed3cf00fec8-1776667876932.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "f9b1878d-1055-4d84-af4c-6b62f658e1cc",
+    "vendorcode": "4610169562118",
+    "taste": "яблоко",
+    "img_path": "https://vd.fitsklad.ru/photos/good/8557f053-4434-458d-8ca0-352534341770-1776667721382.webp",
+    "img_name": "8557f053-4434-458d-8ca0-352534341770-1776667721382.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "2200f9b5-a152-41bf-aa25-19f12629402e",
+    "vendorcode": "4610169568462",
+    "taste": "Спритц Аперитиво",
+    "img_path": "https://vd.fitsklad.ru/photos/good/8e1815a8-d1c2-4059-8700-a29eab24ac43-1776669007230.webp",
+    "img_name": "8e1815a8-d1c2-4059-8700-a29eab24ac43-1776669007230.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "a9fd6c57-617f-4bc2-8810-20dae3505d32",
+    "vendorcode": "4670226570241",
+    "taste": "маракуйя",
+    "img_path": "https://vd.fitsklad.ru/photos/good/338e7e92-7d99-4208-b3f9-41b8c770f893-1776668861287.webp",
+    "img_name": "338e7e92-7d99-4208-b3f9-41b8c770f893-1776668861287.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "07eedc3b-1610-4197-a1e3-5f00196060ae",
+    "vendorcode": "4670226570364",
+    "taste": "зеленый чай",
+    "img_path": "https://vd.fitsklad.ru/photos/good/bda11bad-3485-4b97-8a5a-a3b0a6ff31ce-1776668703876.webp",
+    "img_name": "bda11bad-3485-4b97-8a5a-a3b0a6ff31ce-1776668703876.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "9d6b4315-0026-4222-aa3a-cf1dd053b30a",
+    "vendorcode": "4670226570197",
+    "taste": "Кола",
+    "img_path": "https://vd.fitsklad.ru/photos/good/28fa2b20-6068-4f7f-bbf6-6da7b2fa27fe-1776668542739.webp",
+    "img_name": "28fa2b20-6068-4f7f-bbf6-6da7b2fa27fe-1776668542739.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "6d2ded48-c5ab-43ff-9fda-1dd17bfb712b",
+    "vendorcode": "4680046721419",
+    "taste": "фундук",
+    "img_path": "https://vd.fitsklad.ru/photos/good/d20a560c-08ca-49b2-b5dc-32fc5e056c3a-1777283390599.jpg",
+    "img_name": "d20a560c-08ca-49b2-b5dc-32fc5e056c3a-1777283390599.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "45f32794-f29d-40f1-8f86-656ffafcae36",
+    "vendorcode": "4680046722249",
+    "taste": "фисташковый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/05e00296-870b-433c-926c-8045cf8f79a6-1777283454523.jpg",
+    "img_name": "05e00296-870b-433c-926c-8045cf8f79a6-1777283454523.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "e6db28d4-7e30-4bb2-842f-21ca2c2d56c2",
+    "vendorcode": "11111120",
+    "taste": "клубника",
+    "img_path": "https://vd.fitsklad.ru/photos/good/d0232cc1-c4b0-4c02-b6aa-4ade048eafa0-1777270694228.webp",
+    "img_name": "d0232cc1-c4b0-4c02-b6aa-4ade048eafa0-1777270694228.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "bfd6c502-bd1d-42cd-bb1b-dada2036a082",
+    "vendorcode": "11111114",
+    "taste": "курица",
+    "img_path": "https://vd.fitsklad.ru/photos/good/0a5a59f3-a4e9-4e14-b639-06855b5f7b5a-1777269804846.webp",
+    "img_name": "0a5a59f3-a4e9-4e14-b639-06855b5f7b5a-1777269804846.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "003ed3e4-2c00-47d4-a1b4-e59a127f0701",
+    "vendorcode": "11111119",
+    "taste": "сгущенка",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f9b2aa50-fe8e-4a81-8867-53815a6636a4-1777270604570.webp",
+    "img_name": "f9b2aa50-fe8e-4a81-8867-53815a6636a4-1777270604570.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "ede78272-73c5-4c03-8cd2-6fc63049ccf4",
+    "vendorcode": "11111118",
+    "taste": "яблоко",
+    "img_path": "https://vd.fitsklad.ru/photos/good/ea74c8c2-fbeb-49b7-872e-1b880365851a-1777270467732.webp",
+    "img_name": "ea74c8c2-fbeb-49b7-872e-1b880365851a-1777270467732.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "24041e52-97c2-49d6-81a0-18d4602358c4",
+    "vendorcode": "4610169569841",
+    "taste": "капучино",
+    "img_path": "https://vd.fitsklad.ru/photos/good/db7feb3d-c063-4f5d-b00d-afaa9fef122e-1777283491275.jpg",
+    "img_name": "db7feb3d-c063-4f5d-b00d-afaa9fef122e-1777283491275.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "104a7be5-1efd-4c87-9c02-9dcca1f3710f",
+    "vendorcode": "4660298503964",
+    "taste": "малиновый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/390a921c-2cc7-4da0-8369-5c80c07f7e3f-1776671238132.jpg",
+    "img_name": "390a921c-2cc7-4da0-8369-5c80c07f7e3f-1776671238132.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "0a765180-a021-49ac-bf7d-064d2e5aa018",
+    "vendorcode": "4610169568530",
+    "taste": "печенье крем",
+    "img_path": "https://vd.fitsklad.ru/photos/good/d38595a9-e520-4354-91e1-c663b68cce29-1776671768367.jpg",
+    "img_name": "d38595a9-e520-4354-91e1-c663b68cce29-1776671768367.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "b1c5f3fd-5151-43bc-80fa-ad733e339b34",
+    "vendorcode": "4610169568493",
+    "taste": "классический",
+    "img_path": "https://vd.fitsklad.ru/photos/good/bd09deab-d823-4e8d-83d1-755bd3b01bae-1776671814162.jpg",
+    "img_name": "bd09deab-d823-4e8d-83d1-755bd3b01bae-1776671814162.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "6767dc20-6abd-4a61-93aa-9993d32b23d7",
+    "vendorcode": "4660298503902",
+    "taste": "сливочная карамель",
+    "img_path": "https://vd.fitsklad.ru/photos/good/3d99ac71-d5dc-4191-b06f-c0ab02d6e40e-1777283535983.jpg",
+    "img_name": "3d99ac71-d5dc-4191-b06f-c0ab02d6e40e-1777283535983.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "187fbcaf-9f25-4087-aa7d-fb94109c8297",
+    "vendorcode": "4660298503889",
+    "taste": "двойной шоколад",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b8cbd558-bca5-43dd-8437-a34ca2631bdd-1777283622005.jpg",
+    "img_name": "b8cbd558-bca5-43dd-8437-a34ca2631bdd-1777283622005.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "934e9b2c-cf41-44aa-aff0-4c426918c631",
+    "vendorcode": "87634500",
+    "taste": "холодец и хрен",
+    "img_path": "https://vd.fitsklad.ru/photos/good/1e1f4aec-a090-41dc-9bba-04a4cad7ba63-1777352444071.webp",
+    "img_name": "1e1f4aec-a090-41dc-9bba-04a4cad7ba63-1777352444071.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "2e3bcf1b-1b9a-4ebf-ae3e-48e2eb8b9b9b",
+      "name": "3 корочки"
+    },
+    "nameseria": {
+      "id": "8c8cd5b0-15fd-4e62-b03c-daf7c13c7cba",
+      "name": "сухарики"
+    }
+  },
+  {
+    "id": "69ccc4c7-0511-48f2-9e2f-e071007e24f8",
+    "vendorcode": "67431298",
+    "taste": "бруснично-клюквенный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/23f356ff-c161-4029-bc60-177c2b2bb1c4-1777352901176.webp",
+    "img_name": "23f356ff-c161-4029-bc60-177c2b2bb1c4-1777352901176.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "9a97b09f-bff8-4d8d-a63b-5e2afdcdf0ab",
+      "name": "ниагара"
+    },
+    "nameseria": {
+      "id": "6e745f87-0c12-4d66-b122-c1850aba59ab",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "7a68b6af-9699-40cd-89e9-4db992acd773",
+    "vendorcode": "56348901",
+    "taste": "черная смородина",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f258b59a-139f-449e-b261-52578f869ce0-1777352737749.webp",
+    "img_name": "f258b59a-139f-449e-b261-52578f869ce0-1777352737749.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "9a97b09f-bff8-4d8d-a63b-5e2afdcdf0ab",
+      "name": "ниагара"
+    },
+    "nameseria": {
+      "id": "6e745f87-0c12-4d66-b122-c1850aba59ab",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "d6df57b0-64a2-4e6e-ad63-2d7553633b0d",
+    "vendorcode": "4600494600524",
+    "taste": "персик",
+    "img_path": "https://vd.fitsklad.ru/photos/good/97172270-1495-4903-9751-eaff21ab9a8a-1777353085050.webp",
+    "img_name": "97172270-1495-4903-9751-eaff21ab9a8a-1777353085050.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "42877b69-9ec4-46cd-a097-e0c6aa03d6eb",
+      "name": "Lipton"
+    },
+    "nameseria": {
+      "id": "a7bfb693-b577-4178-964b-6641e72fd1cc",
+      "name": "Напитки"
+    }
+  },
+  {
+    "id": "ac5e783b-9eba-484c-9db1-3f8905b157cd",
+    "vendorcode": "4660085515163",
+    "taste": "арахис",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c800b087-553f-4663-8b2d-11b2e95da4da-1776675167683.png",
+    "img_name": "c800b087-553f-4663-8b2d-11b2e95da4da-1776675167683.png",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "f03b7173-178c-4728-af08-d62dec23e11e",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "008bcfbe-7f19-47a8-8b38-3f47452bda92",
+    "vendorcode": "76890061",
+    "taste": "кола",
+    "img_path": "https://vd.fitsklad.ru/photos/good/996ccd1a-8875-4400-96da-1e6127040bf6-1777353261873.webp",
+    "img_name": "996ccd1a-8875-4400-96da-1e6127040bf6-1777353261873.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "4af10ca1-45c2-4c62-bec8-ad5f470c0a23",
+      "name": "пепси"
+    },
+    "nameseria": {
+      "id": "c1e5a015-a8ba-4a33-91ee-83443fcca876",
+      "name": "напитки"
+    }
+  },
+  {
+    "id": "e6ee5f48-9a86-459f-b54b-db97c574d63f",
+    "vendorcode": "4630065252692",
+    "taste": "оригинальный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/2767f958-ee76-4fe4-af40-d68be271eae3-1777357699841.webp",
+    "img_name": "2767f958-ee76-4fe4-af40-d68be271eae3-1777357699841.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "f4e53436-88c2-4735-a713-b2da2db83f28",
+      "name": "ягуар"
+    },
+    "nameseria": {
+      "id": "75ada0d7-0ffd-40e1-9b1c-6b955c590081",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "6ef1cd24-4d4e-458f-bee8-d40f9d484430",
+    "vendorcode": "5674383903843",
+    "taste": "тропический",
+    "img_path": "https://vd.fitsklad.ru/photos/good/7b12148f-1a5d-446c-9eca-84596a731722-1777358048079.webp",
+    "img_name": "7b12148f-1a5d-446c-9eca-84596a731722-1777358048079.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "f4e53436-88c2-4735-a713-b2da2db83f28",
+      "name": "ягуар"
+    },
+    "nameseria": {
+      "id": "75ada0d7-0ffd-40e1-9b1c-6b955c590081",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "eb7b23f5-be08-4404-bc59-9b3633a04d24",
+    "vendorcode": "4605142020464",
+    "taste": "сливочный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/5c7f91fc-070b-4aa4-82d0-a008ca0e3f78-1776676995637.webp",
+    "img_name": "5c7f91fc-070b-4aa4-82d0-a008ca0e3f78-1776676995637.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "f03b7173-178c-4728-af08-d62dec23e11e",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "5af344f8-8908-466b-a525-d5bb62656455",
+    "vendorcode": "11111222",
+    "taste": "кола",
+    "img_path": "https://vd.fitsklad.ru/photos/good/03b42c6b-c39f-4670-81a3-c6f2d050ac3a-1777358382017.webp",
+    "img_name": "03b42c6b-c39f-4670-81a3-c6f2d050ac3a-1777358382017.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1017462c-73c4-49bc-ae6c-10999936c1be",
+      "name": "POWER TORR "
+    },
+    "nameseria": {
+      "id": "8444d56c-2fed-4031-8d86-5155c928768d",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "cd2b7898-6209-4f3c-be04-64b23b7c4f7e",
+    "vendorcode": "7622210245502",
+    "taste": "грецкий орех",
+    "img_path": "https://vd.fitsklad.ru/photos/good/e625be6b-d8dd-4086-bcb7-0c8f43eb1d6b-1776676562236.webp",
+    "img_name": "e625be6b-d8dd-4086-bcb7-0c8f43eb1d6b-1776676562236.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "f03b7173-178c-4728-af08-d62dec23e11e",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "7d773a90-6e7d-4bb8-a3e1-82960af02238",
+    "vendorcode": "4607065001490",
+    "taste": "нуга и карамель",
+    "img_path": "https://vd.fitsklad.ru/photos/good/a3599863-2e11-42c0-b4f0-28d04921ea78-1776675446312.webp",
+    "img_name": "a3599863-2e11-42c0-b4f0-28d04921ea78-1776675446312.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "f03b7173-178c-4728-af08-d62dec23e11e",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "9dd68d10-174f-41bf-b360-2f1f091998ea",
+    "vendorcode": "5000159390729",
+    "taste": "карамель",
+    "img_path": "https://vd.fitsklad.ru/photos/good/9b92cc65-e083-479b-b37b-ccc59c9185b1-1776678910141.webp",
+    "img_name": "9b92cc65-e083-479b-b37b-ccc59c9185b1-1776678910141.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "f03b7173-178c-4728-af08-d62dec23e11e",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "16ba3229-7c9c-4dd5-8c3c-98979382b049",
+    "vendorcode": "4605142020471",
+    "taste": "шоколад",
+    "img_path": "https://vd.fitsklad.ru/photos/good/14668a40-9df3-4441-844b-edefe1943e01-1776677115442.webp",
+    "img_name": "14668a40-9df3-4441-844b-edefe1943e01-1776677115442.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "f03b7173-178c-4728-af08-d62dec23e11e",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "c5ac85ca-95fe-4ac1-90dd-955003910bc0",
+    "vendorcode": "4620017459590",
+    "taste": "миндаль",
+    "img_path": "https://vd.fitsklad.ru/photos/good/19480266-f744-42d3-a519-ec031566a5a9-1776676287281.webp",
+    "img_name": "19480266-f744-42d3-a519-ec031566a5a9-1776676287281.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "f03b7173-178c-4728-af08-d62dec23e11e",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "f9fa8b8e-dd7b-4caa-902e-95ff3d347a87",
+    "vendorcode": "5000159439480",
+    "taste": "лесной орех",
+    "img_path": "https://vd.fitsklad.ru/photos/good/165486f2-2f7f-43b3-9819-129989595e3a-1776675189514.jpg",
+    "img_name": "165486f2-2f7f-43b3-9819-129989595e3a-1776675189514.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "f03b7173-178c-4728-af08-d62dec23e11e",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "d492e139-43f1-4d24-9d1b-f1167a225f01",
+    "vendorcode": "11111113",
+    "taste": "курица",
+    "img_path": "https://vd.fitsklad.ru/photos/good/111902ac-5d32-4a97-8b03-44244f765b80-1777269555422.webp",
+    "img_name": "111902ac-5d32-4a97-8b03-44244f765b80-1777269555422.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "ce8be410-15f2-4ee2-9696-1463bda87fd6",
+    "vendorcode": "11111112",
+    "taste": "шоколад",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c7318cf3-fe05-4ae2-8685-2501fb45045e-1777269385505.webp",
+    "img_name": "c7318cf3-fe05-4ae2-8685-2501fb45045e-1777269385505.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "36ec75bd-32f1-486c-8092-8bd5eda59053",
+    "vendorcode": "11111111",
+    "taste": "миндаль",
+    "img_path": "https://vd.fitsklad.ru/photos/good/51517a8f-be48-453c-87ef-3bc4060bfca4-1777269190461.webp",
+    "img_name": "51517a8f-be48-453c-87ef-3bc4060bfca4-1777269190461.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "ac1120c8-ee80-49c7-b6c1-8da3aa725e93",
+    "vendorcode": "1111111111111",
+    "taste": "творог",
+    "img_path": "https://vd.fitsklad.ru/photos/good/cf988280-1c87-4ab5-b7ea-584b76b8c991-1777269058982.webp",
+    "img_name": "cf988280-1c87-4ab5-b7ea-584b76b8c991-1777269058982.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "f362c840-84d4-453c-b7c4-6e7c82f94bfd",
+    "vendorcode": "56566566",
+    "taste": "манго",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c14f8ac7-7584-4a4c-99dd-3dc34925d5bc-1777364554352.webp",
+    "img_name": "c14f8ac7-7584-4a4c-99dd-3dc34925d5bc-1777364554352.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1017462c-73c4-49bc-ae6c-10999936c1be",
+      "name": "POWER TORR "
+    },
+    "nameseria": {
+      "id": "8444d56c-2fed-4031-8d86-5155c928768d",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "d8382f3f-b7ae-4425-a1ad-cd4c3c2df19f",
+    "vendorcode": "11111123",
+    "taste": "картофель и грибы",
+    "img_path": "https://vd.fitsklad.ru/photos/good/6fa702fa-34fa-4050-9deb-3dd405ee7477-1777271207587.webp",
+    "img_name": "6fa702fa-34fa-4050-9deb-3dd405ee7477-1777271207587.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "d6c879d1-719f-4532-b988-13f14fb392cf",
+    "vendorcode": "11111122",
+    "taste": "капуста",
+    "img_path": "https://vd.fitsklad.ru/photos/good/49845912-9109-4861-ace8-f0b944655b61-1777271085033.webp",
+    "img_name": "49845912-9109-4861-ace8-f0b944655b61-1777271085033.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "38b96700-cba8-4c71-9e85-ee80764b5c9d",
+    "vendorcode": "11111121",
+    "taste": "мак",
+    "img_path": "https://vd.fitsklad.ru/photos/good/06f5280d-7fdc-41dd-a0ed-296e6f385ecb-1777270915958.webp",
+    "img_name": "06f5280d-7fdc-41dd-a0ed-296e6f385ecb-1777270915958.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "4bafdd6a-65f5-4026-a345-2a1b526ed91d",
+    "vendorcode": "43121212",
+    "taste": "оранж",
+    "img_path": "https://vd.fitsklad.ru/photos/good/650ecc0e-1fa7-4555-8a31-edd081866fbc-1777358535104.webp",
+    "img_name": "650ecc0e-1fa7-4555-8a31-edd081866fbc-1777358535104.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "1017462c-73c4-49bc-ae6c-10999936c1be",
+      "name": "POWER TORR "
+    },
+    "nameseria": {
+      "id": "8444d56c-2fed-4031-8d86-5155c928768d",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "8219d2c3-7a83-47d2-b861-0b7c9d116d35",
+    "vendorcode": "56789000",
+    "taste": "апельсин",
+    "img_path": "https://vd.fitsklad.ru/photos/good/43284497-a021-486d-9657-b9d927a7762d-1777364715611.webp",
+    "img_name": "43284497-a021-486d-9657-b9d927a7762d-1777364715611.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e9f027c5-c694-414c-8965-4abc5d0a4b75",
+      "name": "tusa"
+    },
+    "nameseria": {
+      "id": "28767b32-4d0e-40e0-9d3b-09105cc1cb14",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "2d0b6c10-d489-41f5-be14-539d12cb768e",
+    "vendorcode": "11111132",
+    "taste": "вишня",
+    "img_path": "https://vd.fitsklad.ru/photos/good/a5d55691-5941-49b0-b6d8-c6285eb8748f-1777277065173.webp",
+    "img_name": "a5d55691-5941-49b0-b6d8-c6285eb8748f-1777277065173.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "11998146-d5d4-43b1-b096-217a876242d0",
+    "vendorcode": "11111131",
+    "taste": " вареной сгущенки",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c2e21cc8-68af-47ac-a256-bca166d7adf2-1777276827057.webp",
+    "img_name": "c2e21cc8-68af-47ac-a256-bca166d7adf2-1777276827057.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "79aedaf4-a722-4bd3-80ab-a0bf5d03833a",
+    "vendorcode": "11111129",
+    "taste": "абрикос",
+    "img_path": "https://vd.fitsklad.ru/photos/good/5e7ec254-3d5f-4c02-8115-e27a15df95a9-1777276674919.webp",
+    "img_name": "5e7ec254-3d5f-4c02-8115-e27a15df95a9-1777276674919.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "5cf8871b-4b66-48de-9e82-8e386ec571ec",
+    "vendorcode": "11111128",
+    "taste": "творог",
+    "img_path": "https://vd.fitsklad.ru/photos/good/ab6b5d17-41d4-4545-9b50-b9f6da37f55a-1777276590365.webp",
+    "img_name": "ab6b5d17-41d4-4545-9b50-b9f6da37f55a-1777276590365.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "ca8bf201-88bb-4140-97fe-867f1af7c4b8",
+    "vendorcode": "11111127",
+    "taste": "творог",
+    "img_path": "https://vd.fitsklad.ru/photos/good/af8d433c-ca9b-4ad4-a60b-9284a3a9189f-1777276446263.webp",
+    "img_name": "af8d433c-ca9b-4ad4-a60b-9284a3a9189f-1777276446263.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "0ffb670a-649c-44cc-906e-2b66a888b538",
+    "vendorcode": "11111126",
+    "taste": "рис и яйцом",
+    "img_path": "https://vd.fitsklad.ru/photos/good/555ca66a-5901-460c-9431-84ac262e0946-1777276329738.webp",
+    "img_name": "555ca66a-5901-460c-9431-84ac262e0946-1777276329738.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "b8261cb2-38b5-43d5-9df8-1ccfff073ec1",
+    "vendorcode": "56789001",
+    "taste": "тонизирующий",
+    "img_path": "https://vd.fitsklad.ru/photos/good/ebd010a4-7f00-44e9-8878-73d22d2aeaba-1777364833332.webp",
+    "img_name": "ebd010a4-7f00-44e9-8878-73d22d2aeaba-1777364833332.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e9f027c5-c694-414c-8965-4abc5d0a4b75",
+      "name": "tusa"
+    },
+    "nameseria": {
+      "id": "28767b32-4d0e-40e0-9d3b-09105cc1cb14",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "4cf905a0-3d03-4957-97be-7c45ad3e4eba",
+    "vendorcode": "4607141893537",
+    "taste": "ореховый",
+    "img_path": "https://vd.fitsklad.ru/photos/good/1cb681c5-538d-4c40-a99a-bc89d93d35cb-1777280821892.webp",
+    "img_name": "1cb681c5-538d-4c40-a99a-bc89d93d35cb-1777280821892.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "739801cb-eb3d-4911-bbc0-38b8cc74f109",
+    "vendorcode": "11111140",
+    "taste": "яблоко",
+    "img_path": "https://vd.fitsklad.ru/photos/good/0c101b7d-354c-4812-8a9b-0fa7b75ebddf-1777279509740.webp",
+    "img_name": "0c101b7d-354c-4812-8a9b-0fa7b75ebddf-1777279509740.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "0f8f801e-3c4c-41b9-ab99-6c93c75c8025",
+    "vendorcode": "11111139",
+    "taste": "курица",
+    "img_path": "https://vd.fitsklad.ru/photos/good/9598fed0-5a9e-45c9-af83-d61c2127ff8c-1777279337808.webp",
+    "img_name": "9598fed0-5a9e-45c9-af83-d61c2127ff8c-1777279337808.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "efcf50db-2e04-4392-a629-da967607d47e",
+    "vendorcode": "11111138",
+    "taste": "курица",
+    "img_path": "https://vd.fitsklad.ru/photos/good/a8d3c6a0-b180-4ad6-afb0-f6b5790c1980-1777279237459.webp",
+    "img_name": "a8d3c6a0-b180-4ad6-afb0-f6b5790c1980-1777279237459.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "ad54cee9-bfed-4246-9541-f2017b77bc9a",
+    "vendorcode": "11111137",
+    "taste": "ветчина",
+    "img_path": "https://vd.fitsklad.ru/photos/good/801962eb-c9df-4a56-8dae-33c17179cc3d-1777278597148.webp",
+    "img_name": "801962eb-c9df-4a56-8dae-33c17179cc3d-1777278597148.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "3e78b685-00cf-4d1a-84db-81bd0199490c",
+    "vendorcode": "11111136",
+    "taste": "курица",
+    "img_path": "https://vd.fitsklad.ru/photos/good/0d9d5d82-fb88-4c4d-bc53-677108e879d4-1777277828404.webp",
+    "img_name": "0d9d5d82-fb88-4c4d-bc53-677108e879d4-1777277828404.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "9122d7d0-f2b1-4e0c-a84f-099d8bbe8a93",
+    "vendorcode": "11111135",
+    "taste": "курица с терияки",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c68fd56c-4eb6-49f3-b650-18a336686a33-1777277480202.webp",
+    "img_name": "c68fd56c-4eb6-49f3-b650-18a336686a33-1777277480202.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "21b39f36-a2a0-428e-99ce-39624877eb51",
+    "vendorcode": "4610169563399",
+    "taste": "шоколад",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b03d932b-4c01-4de7-a208-6d2591ff4053-1777283819585.jpg",
+    "img_name": "b03d932b-4c01-4de7-a208-6d2591ff4053-1777283819585.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "8f088755-9f35-4978-9e8d-8b28d41255bb",
+    "vendorcode": "4610169569773",
+    "taste": "тирамису",
+    "img_path": "https://vd.fitsklad.ru/photos/good/b6282e12-f9f9-4089-9e78-1efb028cf214-1777283505006.jpg",
+    "img_name": "b6282e12-f9f9-4089-9e78-1efb028cf214-1777283505006.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "11f75abb-54bc-467d-b290-cc3213d04668",
+    "vendorcode": "57890003",
+    "taste": "ананас",
+    "img_path": "https://vd.fitsklad.ru/photos/good/1a5a3fbb-298e-4b9a-8859-7024c05fe435-1777365016941.webp",
+    "img_name": "1a5a3fbb-298e-4b9a-8859-7024c05fe435-1777365016941.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "e9f027c5-c694-414c-8965-4abc5d0a4b75",
+      "name": "tusa"
+    },
+    "nameseria": {
+      "id": "28767b32-4d0e-40e0-9d3b-09105cc1cb14",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "3d0b43e7-98fc-4d16-90c3-3e2976742692",
+    "vendorcode": "11111144",
+    "taste": "курага",
+    "img_path": "https://vd.fitsklad.ru/photos/good/98b16131-ae46-4671-aa93-048dcd280519-1777283199285.webp",
+    "img_name": "98b16131-ae46-4671-aa93-048dcd280519-1777283199285.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "ed48c0da-7bf4-422f-a5db-46bfd31f1835",
+    "vendorcode": "4607141890031",
+    "taste": "творог",
+    "img_path": "https://vd.fitsklad.ru/photos/good/321a6164-9925-49f7-b980-f6fc5b2203d1-1777282058295.webp",
+    "img_name": "321a6164-9925-49f7-b980-f6fc5b2203d1-1777282058295.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "990f0c72-d654-4918-873d-32bde6ab4b98",
+    "vendorcode": "4607141890420",
+    "taste": "корица",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c6b78232-01a1-4674-84e0-f0eca92e0225-1777281832434.webp",
+    "img_name": "c6b78232-01a1-4674-84e0-f0eca92e0225-1777281832434.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "ca060ead-7a2d-452d-a2ea-86f99706faef",
+    "vendorcode": "4607141890413",
+    "taste": "изюм",
+    "img_path": "https://vd.fitsklad.ru/photos/good/dd2862d6-d5f0-4881-934f-18e778f0ce22-1777281546572.webp",
+    "img_name": "dd2862d6-d5f0-4881-934f-18e778f0ce22-1777281546572.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "490195e0-90cb-431d-a931-b520795f7544",
+    "vendorcode": "4607141890321",
+    "taste": "сдоба",
+    "img_path": "https://vd.fitsklad.ru/photos/good/30b49ffb-57ce-4498-990c-3e55cb127d45-1777281276083.webp",
+    "img_name": "30b49ffb-57ce-4498-990c-3e55cb127d45-1777281276083.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "0b781f45-2a7e-445a-9a16-523b68e3a008",
+    "vendorcode": "11111134",
+    "taste": "ветчина сыр",
+    "img_path": "https://vd.fitsklad.ru/photos/good/5b1c91a4-c293-4c31-a6ec-f6d63c7f646c-1777277373008.webp",
+    "img_name": "5b1c91a4-c293-4c31-a6ec-f6d63c7f646c-1777277373008.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "8b2b4d6d-3fbb-4862-ae06-484a9c6fbceb",
+    "vendorcode": "4607141890468",
+    "taste": "мак",
+    "img_path": "https://vd.fitsklad.ru/photos/good/bd1a31ad-7788-4470-86e9-e55e6c7a89fc-1778911664204.jpg",
+    "img_name": "bd1a31ad-7788-4470-86e9-e55e6c7a89fc-1778911664204.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "bdfca16a-5a0d-4b7e-abc7-feb12c367f6f",
+    "vendorcode": "55555511",
+    "taste": "энергия",
+    "img_path": "https://vd.fitsklad.ru/photos/good/878abc70-a98d-43eb-b1af-336fe5a0ec50-1777365620620.jpg",
+    "img_name": "878abc70-a98d-43eb-b1af-336fe5a0ec50-1777365620620.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "b88aa6e8-14ee-4087-9dbe-4a6ea23a1571",
+      "name": "flash up"
+    },
+    "nameseria": {
+      "id": "ba1502f2-fe58-42fe-971e-3f21dec03bff",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "af51df24-449d-4559-9f92-fb13332d5894",
+    "vendorcode": "11111133",
+    "taste": "малина",
+    "img_path": "https://vd.fitsklad.ru/photos/good/a4b77cb4-3d6d-49f8-9702-d74703b5ea1f-1777277152882.webp",
+    "img_name": "a4b77cb4-3d6d-49f8-9702-d74703b5ea1f-1777277152882.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "9b0d24d7-1af2-4d74-b6dc-4de21488f25d",
+    "vendorcode": "11111124",
+    "taste": "яйцо с луком",
+    "img_path": "https://vd.fitsklad.ru/photos/good/59e1fab7-c5ca-4001-8b1e-af9f8a570b1b-1777271327513.webp",
+    "img_name": "59e1fab7-c5ca-4001-8b1e-af9f8a570b1b-1777271327513.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "786222cb-afc6-4886-80a5-68685fdadd00",
+    "vendorcode": "4620004250926",
+    "taste": "семечки",
+    "img_path": "https://vd.fitsklad.ru/photos/good/a77c161a-f5c4-4496-a272-a26ed9fd73ab-1777007910487.webp",
+    "img_name": "a77c161a-f5c4-4496-a272-a26ed9fd73ab-1777007910487.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "ed8136a2-97eb-4bbb-a245-8b32d7877671",
+      "name": "Азовская КФ"
+    },
+    "nameseria": {
+      "id": "266b9a35-6d66-4695-8843-ddf15c323e74",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "1b43c635-d659-41b1-966b-79eb300c1531",
+    "vendorcode": "4607024894163",
+    "taste": "семга+соус тартар ",
+    "img_path": "https://vd.fitsklad.ru/photos/good/d4bfe13c-30db-435e-9ccf-4906d0cd64ee-1776954381961.webp",
+    "img_name": "d4bfe13c-30db-435e-9ccf-4906d0cd64ee-1776954381961.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "2e3bcf1b-1b9a-4ebf-ae3e-48e2eb8b9b9b",
+      "name": "3 корочки"
+    },
+    "nameseria": {
+      "id": "8c8cd5b0-15fd-4e62-b03c-daf7c13c7cba",
+      "name": "сухарики"
+    }
+  },
+  {
+    "id": "0d1fbd7b-14fe-40c8-bb87-3fea47235e85",
+    "vendorcode": "4607024896860",
+    "taste": " Курица+соус Терияки ",
+    "img_path": "https://vd.fitsklad.ru/photos/good/73b8325f-ec4c-4be0-9605-9e3ea4110702-1776954203887.webp",
+    "img_name": "73b8325f-ec4c-4be0-9605-9e3ea4110702-1776954203887.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "2e3bcf1b-1b9a-4ebf-ae3e-48e2eb8b9b9b",
+      "name": "3 корочки"
+    },
+    "nameseria": {
+      "id": "8c8cd5b0-15fd-4e62-b03c-daf7c13c7cba",
+      "name": "сухарики"
+    }
+  },
+  {
+    "id": "65071473-399f-4d8e-9359-e5eac13f57e9",
+    "vendorcode": "4620757014332",
+    "taste": "краб",
+    "img_path": "https://vd.fitsklad.ru/photos/good/1d7f240a-245b-4b42-a0a4-799a41589535-1776952336704.webp",
+    "img_name": "1d7f240a-245b-4b42-a0a4-799a41589535-1776952336704.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "2cf116c4-0619-4c32-8646-847345acebff",
+      "name": "Фишка"
+    },
+    "nameseria": {
+      "id": "7d3acf65-3dc3-4ef9-af7b-d721610e7767",
+      "name": "Арахис"
+    }
+  },
+  {
+    "id": "0bfb2f9b-0aec-4700-884c-d70343994979",
+    "vendorcode": "4690388013653",
+    "taste": "краб",
+    "img_path": "https://vd.fitsklad.ru/photos/good/759be1d6-74cd-4cc7-ab34-349d71b4cfc6-1776951728637.webp",
+    "img_name": "759be1d6-74cd-4cc7-ab34-349d71b4cfc6-1776951728637.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "c992e578-3365-4528-af0f-8f5573490a5a",
+      "name": "Хрустим"
+    },
+    "nameseria": {
+      "id": "543eaf03-d2ce-4921-adfd-64cbfc00d71e",
+      "name": "Сухарики"
+    }
+  },
+  {
+    "id": "df31dc7c-0b53-43fb-a2a6-98d4009dea71",
+    "vendorcode": "7622201151270",
+    "taste": "краб",
+    "img_path": "https://vd.fitsklad.ru/photos/good/ba812687-c094-43d4-9ba1-d21361de17dd-1776679999289.webp",
+    "img_name": "ba812687-c094-43d4-9ba1-d21361de17dd-1776679999289.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "28538a57-fc25-4cd9-b13c-943e42e52ad4",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "ea339a4f-ce37-42a0-8d13-34cd9cd2711d",
+    "vendorcode": "7622300463847",
+    "taste": "сыр",
+    "img_path": "https://vd.fitsklad.ru/photos/good/471877ec-86a6-4e74-87dc-f8fafcf548fa-1776679834943.webp",
+    "img_name": "471877ec-86a6-4e74-87dc-f8fafcf548fa-1776679834943.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "28538a57-fc25-4cd9-b13c-943e42e52ad4",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "6c8ea509-50ad-4ea4-959f-7482e150954e",
+    "vendorcode": "7622210084804",
+    "taste": "сметана с луком",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c68d6f46-b790-42c1-8521-b38e7676eb45-1776679661524.webp",
+    "img_name": "c68d6f46-b790-42c1-8521-b38e7676eb45-1776679661524.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "28538a57-fc25-4cd9-b13c-943e42e52ad4",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "f500e79c-fc8d-40b4-80df-6094077e7fc4",
+    "vendorcode": "5000159381178",
+    "taste": "кокос",
+    "img_path": "https://vd.fitsklad.ru/photos/good/fe43d271-fa67-4bd3-9927-31be583c1c45-1776679070411.webp",
+    "img_name": "fe43d271-fa67-4bd3-9927-31be583c1c45-1776679070411.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "47d61d11-5553-49fb-80b6-50f8edd6bfbb",
+      "name": "Марс"
+    },
+    "nameseria": {
+      "id": "f03b7173-178c-4728-af08-d62dec23e11e",
+      "name": "Шоколадные батончики"
+    }
+  },
+  {
+    "id": "7208db0e-424f-498c-b770-78c8859ac0c0",
+    "vendorcode": "4610169562101",
+    "taste": "арбуз",
+    "img_path": "https://vd.fitsklad.ru/photos/good/e64dc258-bd06-4269-a766-cf9a6f6a636b-1776667544287.webp",
+    "img_name": "e64dc258-bd06-4269-a766-cf9a6f6a636b-1776667544287.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "c489ca4c-d273-43d1-9fb8-6dbd061083b9",
+    "vendorcode": "4610169565034",
+    "taste": "малина-киви",
+    "img_path": "https://vd.fitsklad.ru/photos/good/f870723c-8660-45db-a926-746d6e9976fb-1776264356946.webp",
+    "img_name": "f870723c-8660-45db-a926-746d6e9976fb-1776264356946.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "33581f74-a18f-413c-b50f-1d15e416672c",
+    "vendorcode": "4610169565058",
+    "taste": "гранат",
+    "img_path": "https://vd.fitsklad.ru/photos/good/1493a411-3386-465c-a30f-8d8f18dd920a-1776264125235.webp",
+    "img_name": "1493a411-3386-465c-a30f-8d8f18dd920a-1776264125235.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "a9cb66ee-2339-4141-a200-fd5c6e8d79ab",
+    "vendorcode": "4610169568325",
+    "taste": "груша",
+    "img_path": "https://vd.fitsklad.ru/photos/good/a4ffcc14-4a04-4de3-aca4-ce6cabf90eb2-1776261037163.webp",
+    "img_name": "a4ffcc14-4a04-4de3-aca4-ce6cabf90eb2-1776261037163.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "c8e24ebb-1cbc-472a-a162-c7769b3097d5",
+    "vendorcode": "4610169568318",
+    "taste": "мохито",
+    "img_path": "https://vd.fitsklad.ru/photos/good/6168690e-e7d4-46a0-b887-c5fa2e4d8f70-1776260774119.webp",
+    "img_name": "6168690e-e7d4-46a0-b887-c5fa2e4d8f70-1776260774119.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "9ad11097-0249-42c4-b306-5f0f50dc0d81",
+    "vendorcode": "4610169566727",
+    "taste": "яблоко",
+    "img_path": "https://vd.fitsklad.ru/photos/good/c21c354c-4cb4-424b-ba57-413330ca7998-1776260557293.webp",
+    "img_name": "c21c354c-4cb4-424b-ba57-413330ca7998-1776260557293.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "9e287d0f-ba0b-4738-bfbc-2dc6d2e47479",
+    "vendorcode": "4610169566703",
+    "taste": "арбуз",
+    "img_path": "https://vd.fitsklad.ru/photos/good/9fa6ff9b-8798-45bf-b29a-ee494236dd8c-1776258548888.webp",
+    "img_name": "9fa6ff9b-8798-45bf-b29a-ee494236dd8c-1776258548888.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "297ae0fe-c26b-4653-8c9e-d5e1cbc7af3f",
+    "vendorcode": "4610169566697",
+    "taste": "ананас",
+    "img_path": "https://vd.fitsklad.ru/photos/good/8b460fb6-4a79-47b7-b10f-269cc5a930b5-1776258118337.webp",
+    "img_name": "8b460fb6-4a79-47b7-b10f-269cc5a930b5-1776258118337.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "eccfe7db-1ad6-45be-b4e8-4c4a7fd4ce2f",
+    "vendorcode": "4660298504008",
+    "taste": "рикотта с грушей",
+    "img_path": "https://vd.fitsklad.ru/photos/good/5bcafd90-dc35-4296-95b1-d92ecf2ce8a4-1776671367780.jpg",
+    "img_name": "5bcafd90-dc35-4296-95b1-d92ecf2ce8a4-1776671367780.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "9fb9bf95-33da-447b-bc67-66a24d61e34e",
+    "vendorcode": "11112222",
+    "taste": "энергия",
+    "img_path": "https://vd.fitsklad.ru/photos/good/e540d82d-a7c2-4887-89a7-aceed4f3637d-1777365796738.webp",
+    "img_name": "e540d82d-a7c2-4887-89a7-aceed4f3637d-1777365796738.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b88aa6e8-14ee-4087-9dbe-4a6ea23a1571",
+      "name": "flash up"
+    },
+    "nameseria": {
+      "id": "ba1502f2-fe58-42fe-971e-3f21dec03bff",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "995b3efd-dbd5-4785-b0a0-71b4f701f097",
+    "vendorcode": "4610169566710",
+    "taste": "тархун",
+    "img_path": "https://vd.fitsklad.ru/photos/good/7219e561-be4b-4df1-bd5c-d2c8fa5724cf-1776260380808.webp",
+    "img_name": "7219e561-be4b-4df1-bd5c-d2c8fa5724cf-1776260380808.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "e0c73e82-3c66-45f8-9303-3cf05f9c789e",
+    "vendorcode": "4610169566680",
+    "taste": "имбирь лемонграсс",
+    "img_path": "https://vd.fitsklad.ru/photos/good/1b4e6305-f85c-4eab-8b7a-7b94196e2393-1776260011328.webp",
+    "img_name": "1b4e6305-f85c-4eab-8b7a-7b94196e2393-1776260011328.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "256aa8da-2a8b-41ab-bb0f-00dafc0eea0d",
+    "vendorcode": "4610169568646",
+    "taste": "лимонад Кола",
+    "img_path": "https://vd.fitsklad.ru/photos/good/a74294fe-0049-453e-98f1-9eb88f2de115-1776257153861.webp",
+    "img_name": "a74294fe-0049-453e-98f1-9eb88f2de115-1776257153861.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "67a71619-395c-40a9-970a-78005908dab1",
+    "vendorcode": "4660298500994",
+    "taste": "киви-чиа",
+    "img_path": "https://vd.fitsklad.ru/photos/good/e9d8b359-9468-4ca3-9f7e-3767fda18c5e-1777283336705.jpg",
+    "img_name": "e9d8b359-9468-4ca3-9f7e-3767fda18c5e-1777283336705.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "03e9067e-0fbb-44db-9f3b-e16bcd72615d",
+    "vendorcode": "4680046720177",
+    "taste": "клубника",
+    "img_path": "https://vd.fitsklad.ru/photos/good/2f72fb70-5534-4d7d-a715-1242198dcd81-1777283359816.webp",
+    "img_name": "2f72fb70-5534-4d7d-a715-1242198dcd81-1777283359816.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "f3139480-1077-43d6-8aa1-187cf45c7f1e",
+    "vendorcode": "4610169568585",
+    "taste": "топленое молоко",
+    "img_path": "https://vd.fitsklad.ru/photos/good/df262cdb-dc8b-43e2-ba7b-6379dae4af22-1777283476382.jpg",
+    "img_name": "df262cdb-dc8b-43e2-ba7b-6379dae4af22-1777283476382.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "49bc0095-725e-4ec0-9e4c-08bdff17f398",
+    "vendorcode": "4660298503988",
+    "taste": "морковный",
+    "img_path": "https://vd.fitsklad.ru/photos/good/52dba633-0727-4796-8004-3982217ab4e2-1776671287781.jpg",
+    "img_name": "52dba633-0727-4796-8004-3982217ab4e2-1776671287781.jpg",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "3d0a4d20-e6df-428f-8a35-425ade8bbb39",
+    "vendorcode": "33344455",
+    "taste": "лайм",
+    "img_path": "https://vd.fitsklad.ru/photos/good/fb55046e-cb2e-4d83-a14b-e2ecfda26369-1777365922788.webp",
+    "img_name": "fb55046e-cb2e-4d83-a14b-e2ecfda26369-1777365922788.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "b88aa6e8-14ee-4087-9dbe-4a6ea23a1571",
+      "name": "flash up"
+    },
+    "nameseria": {
+      "id": "ba1502f2-fe58-42fe-971e-3f21dec03bff",
+      "name": "энергетики"
+    }
+  },
+  {
+    "id": "8a005e0e-27b2-4441-a3bd-a1044a489474",
+    "vendorcode": "99999900",
+    "taste": "сгущенка сырник",
+    "img_path": "https://vd.fitsklad.ru/photos/good/0d1f5796-82d5-4431-aff3-c5995655b965-1777467425503.webp",
+    "img_name": "0d1f5796-82d5-4431-aff3-c5995655b965-1777467425503.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "67577d5e-437b-46ab-9ee7-0babe1310aa6",
+      "name": "Велес"
+    },
+    "nameseria": {
+      "id": "a9bba4c3-2c50-4554-a652-727c813f8834",
+      "name": "кулинария"
+    }
+  },
+  {
+    "id": "6c2afb9c-61cf-4371-88f9-09b611dc222d",
+    "vendorcode": "4680046722287",
+    "taste": "Кокосовый торт",
+    "img_path": "https://vd.fitsklad.ru/photos/good/05b4c0fb-5610-4970-bdeb-19529d5e0d33-1777537074598.webp",
+    "img_name": "05b4c0fb-5610-4970-bdeb-19529d5e0d33-1777537074598.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "68176186-981a-441d-9e25-bef9a6f52401",
+      "name": "Бомббар"
+    },
+    "nameseria": {
+      "id": "acf292c8-6003-4e01-b084-0f0c0cd71cc0",
+      "name": "ЗОЖ"
+    }
+  },
+  {
+    "id": "af4fa8ca-d996-4c69-962e-5ff5230d21d9",
+    "vendorcode": "33443344",
+    "taste": "сгущенное молоко",
+    "img_path": "https://vd.fitsklad.ru/photos/good/ab101f14-8997-4e4f-aae3-8548aa39f696-1777715470215.webp",
+    "img_name": "ab101f14-8997-4e4f-aae3-8548aa39f696-1777715470215.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "a37097f1-68bd-40b1-81da-ca2feeb793f6",
+      "name": "веселая телочка"
+    },
+    "nameseria": {
+      "id": "a2db3a14-99ee-4a16-8e1f-8ba506bb8db8",
+      "name": "кондитерские изделия"
+    }
+  },
+  {
+    "id": "1e5842b2-24e7-4b13-b35c-2e8522c56c84",
+    "vendorcode": "12211221",
+    "taste": "шок. начинкой и маршмеллоу",
+    "img_path": "https://vd.fitsklad.ru/photos/good/2a3bd034-bbbd-41d0-a58b-5a1b08f4ffc5-1777715872801.webp",
+    "img_name": "2a3bd034-bbbd-41d0-a58b-5a1b08f4ffc5-1777715872801.webp",
+    "is_adult": false,
+    "brand": {
+      "id": "d8f13da0-9c5b-4ec7-8753-be64ab7feba9",
+      "name": "MIRAI"
+    },
+    "nameseria": {
+      "id": "81a1c3c4-75df-4302-a9f3-9d99a4633288",
+      "name": "кондитерские изделия"
+    }
+  }
+]
