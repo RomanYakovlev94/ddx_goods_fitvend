@@ -2,15 +2,35 @@
   box-sizing: border-box;
 }
 
+:root {
+  --ddx-cyan: #28eded;
+}
+
 html,
 body {
   min-height: 100%;
   margin: 0;
 }
 
+html {
+  background: var(--ddx-cyan);
+}
+
 body {
-  background: #15191b;
+  background: #f2f2f2 url("/assets/catalog-background.png") center top / min(100vw, 450px) auto repeat-y;
   font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  width: 100%;
+  height: env(safe-area-inset-top);
+  background: var(--ddx-cyan);
+  pointer-events: none;
 }
 
 body.modal-open {
@@ -73,7 +93,8 @@ a {
 
 .catalog-page {
   position: relative;
-  width: min(100vw, 450px);
+  width: 100vw;
+  max-width: 450px;
   height: 100vh;
   height: 100dvh;
   margin: 0 auto;
@@ -88,7 +109,7 @@ a {
   top: 0;
   z-index: 5;
   height: 150px;
-  background: #29d6d4;
+  background: var(--ddx-cyan);
   box-shadow: 0 5px 16px rgba(8, 36, 45, 0.06);
 }
 
@@ -201,7 +222,8 @@ a {
 
 .product-modal-shell {
   position: relative;
-  width: min(100vw, 450px);
+  width: 100vw;
+  max-width: 450px;
   height: 100vh;
   height: 100dvh;
   overflow-x: hidden;

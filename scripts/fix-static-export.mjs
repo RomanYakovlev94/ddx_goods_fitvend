@@ -3,6 +3,8 @@ import { extname, join, relative, sep } from "node:path";
 
 const outDir = join(process.cwd(), "out");
 
+writeFileSync(join(outDir, ".nojekyll"), "");
+
 for (const file of walk(outDir)) {
   const extension = extname(file);
 

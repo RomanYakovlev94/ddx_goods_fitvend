@@ -4,7 +4,7 @@ import { readFileSync } from "node:fs";
 import { join } from "node:path";
 
 export default function CatalogPage() {
-  const goods = readGoods();
+  const goods = sortGoodsByNewest(readGoods());
 
   return <CatalogClient products={goods} />;
 }
@@ -22,4 +22,15 @@ function readGoods() {
   } catch {
     return fallbackGoods;
   }
+}
+
+function sortGoodsByNewest(goods) {
+  return [...goods].sort((a, b) => getGoodTimestamp(b) - getGoodTimestamp(a));
+}
+
+function getGoodTimestamp(good) {
+  const source = `${good.img_name ?? ""} ${good.img_path ?? ""}`;
+  const match = source.match(/-(\d{10,})\.(?:png|jpe?g|webp)(?:\?|\s|$)/i);
+
+  return match ? Number(match[1]) : 0;
 }
