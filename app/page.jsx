@@ -8,10 +8,10 @@ export default function HomePage() {
           alt="DDX Fitness ассортимент вендинга"
           className="exact-screen"
         />
+        <a href="/catalog" className="home-vending-hotspot" aria-label="Перейти к списку товаров">
+          <span>Перейти к списку товаров</span>
+        </a>
       </div>
-      <a href="/catalog" className="home-vending-hotspot" aria-label="Перейти к списку товаров">
-        <span>Перейти к списку товаров</span>
-      </a>
     </main>
   );
 }

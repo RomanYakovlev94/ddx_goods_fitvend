@@ -54,7 +54,11 @@ a {
 }
 
 .exact-screen-crop {
-  aspect-ratio: 1350 / 2716.76;
+  position: relative;
+  width: min(100%, calc(100vh * 1350 / 2716.76));
+  width: min(100%, calc(100dvh * 1350 / 2716.76));
+  height: 100%;
+  margin: 0 auto;
   overflow: hidden;
 }
 
