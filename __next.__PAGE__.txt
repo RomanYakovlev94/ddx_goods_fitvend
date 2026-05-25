@@ -2,5 +2,5 @@
 2:I[97367,["./_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
 :HL["assets/screen-home.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"exact-shell","aria-label":"Ассортимент вендинга","children":[["$","img",null,{"src":"assets/screen-home.webp","alt":"DDX Fitness ассортимент вендинга","className":"exact-screen"}],["$","a",null,{"href":"/catalog","className":"home-vending-hotspot","aria-label":"Перейти к списку товаров","children":["$","span",null,{"children":"Перейти к списку товаров"}]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UxAoEF6GhwXZpM01xELFy"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"exact-shell","aria-label":"Ассортимент вендинга","children":[["$","img",null,{"src":"assets/screen-home.webp","alt":"DDX Fitness ассортимент вендинга","className":"exact-screen"}],["$","a",null,{"href":"/catalog","className":"home-vending-hotspot","aria-label":"Перейти к списку товаров","children":["$","span",null,{"children":"Перейти к списку товаров"}]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"uXfA40uBnCAAjL88dZLNq"}
 4:null
