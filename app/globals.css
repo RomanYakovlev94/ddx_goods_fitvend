@@ -51,10 +51,16 @@ a {
   background: var(--ddx-cyan);
 }
 
+.exact-screen-crop {
+  aspect-ratio: 1350 / 2805.35;
+  overflow: hidden;
+}
+
 .exact-screen {
   display: block;
   width: 100%;
   height: auto;
+  transform: translateY(-5%);
   user-select: none;
 }
 
@@ -86,9 +92,9 @@ a {
 
 .home-vending-hotspot {
   left: 31%;
-  top: 45.5%;
+  top: 42.6%;
   width: 57%;
-  height: 40%;
+  height: 42.1%;
 }
 
 .catalog-page {
