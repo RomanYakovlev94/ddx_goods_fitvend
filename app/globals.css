@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  background: #f2f2f2 url("/assets/catalog-background.png") center top / min(100vw, 450px) auto repeat-y;
+  background: var(--ddx-cyan);
   font-family: Montserrat, Arial, Helvetica, sans-serif;
 }
 
