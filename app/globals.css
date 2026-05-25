@@ -48,7 +48,7 @@ a {
   min-height: 100vh;
   margin: 0 auto;
   overflow: hidden;
-  background: #f2f2f2;
+  background: var(--ddx-cyan);
 }
 
 .exact-screen {
@@ -85,10 +85,10 @@ a {
 }
 
 .home-vending-hotspot {
-  left: 25.8%;
-  top: 35.7%;
-  width: 48.7%;
-  height: 29.8%;
+  left: 31%;
+  top: 45.5%;
+  width: 57%;
+  height: 40%;
 }
 
 .catalog-page {
