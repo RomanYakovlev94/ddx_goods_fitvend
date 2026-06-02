@@ -3,6 +3,29 @@
 
 import { useEffect, useState } from "react";
 
+const CATALOG_MENU_ITEMS = [
+  {
+    controlId: "catalog-filter-water",
+    label: "Вода",
+    slug: "water",
+  },
+  {
+    controlId: "catalog-filter-functional",
+    label: "Функциональные напитки",
+    slug: "functional",
+  },
+  {
+    controlId: "catalog-filter-snack",
+    label: "Снеки",
+    slug: "snack",
+  },
+  {
+    controlId: "catalog-filter-other",
+    label: "Прочее",
+    slug: "other",
+  },
+];
+
 export default function CatalogClient({ products }) {
   const [selectedProduct, setSelectedProduct] = useState(null);
 
@@ -29,6 +52,8 @@ export default function CatalogClient({ products }) {
   return (
     <main className="catalog-page" aria-label="Fitness лето">
       <CatalogHeader />
+      <CatalogFilterControls />
+      <CatalogMenu />
 
       <section className="goods-grid" aria-label="Список товаров">
         {products.map((product) => (
@@ -58,11 +83,60 @@ function CatalogHeader() {
   );
 }
 
+function CatalogFilterControls() {
+  return (
+    <>
+      <input
+        className="catalog-filter-control"
+        type="radio"
+        name="catalog-filter"
+        id="catalog-filter-all"
+        defaultChecked
+      />
+      {CATALOG_MENU_ITEMS.map((item) => (
+        <input
+          key={item.controlId}
+          className="catalog-filter-control"
+          type="radio"
+          name="catalog-filter"
+          id={item.controlId}
+        />
+      ))}
+    </>
+  );
+}
+
+function CatalogMenu() {
+  return (
+    <details className="catalog-menu">
+      <summary className="catalog-menu-toggle" aria-label="Открыть меню категорий">
+        <span />
+        <span />
+        <span />
+      </summary>
+
+      <nav className="catalog-menu-panel" aria-label="Категории товаров">
+        {CATALOG_MENU_ITEMS.map((item) => (
+          <label
+            key={item.controlId}
+            className="catalog-menu-item"
+            data-category={item.label}
+            htmlFor={item.controlId}
+          >
+            {item.label}
+          </label>
+        ))}
+      </nav>
+    </details>
+  );
+}
+
 function ProductCard({ product, onOpen }) {
   const title = getProductTitle(product);
+  const subcategoryClass = `subcategory-${getSubcategorySlug(product.subcategory?.name)}`;
 
   return (
-    <button type="button" className="good-card" onClick={onOpen}>
+    <button type="button" className={`good-card ${subcategoryClass}`} onClick={onOpen}>
       <div className="good-image-frame">
         <img src={product.img_path} alt={title} className="good-image" loading="lazy" />
       </div>
@@ -188,4 +262,19 @@ function cleanInfoText(value, fieldName) {
   }
 
   return text;
+}
+
+function getSubcategorySlug(subcategoryName) {
+  switch (subcategoryName) {
+    case "Вода":
+      return "water";
+    case "Функциональные напитки":
+      return "functional";
+    case "Снек":
+      return "snack";
+    case "Прочее":
+      return "other";
+    default:
+      return "none";
+  }
 }
