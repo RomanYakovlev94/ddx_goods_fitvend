@@ -44,8 +44,6 @@ a {
 
 .home-page {
   width: min(100vw, 500px);
-  min-height: 100vh;
-  min-height: 100dvh;
   margin: 0 auto;
   overflow: hidden;
   background: var(--ddx-cyan);
@@ -54,8 +52,7 @@ a {
 .home-artboard {
   position: relative;
   width: 100%;
-  min-height: 100vh;
-  min-height: 100dvh;
+  aspect-ratio: 892 / 1966;
   overflow: hidden;
   background: var(--ddx-cyan);
   isolation: isolate;
@@ -69,48 +66,24 @@ a {
   -webkit-user-drag: none;
 }
 
-.home-ddx-logo {
-  left: 35.7%;
-  top: calc(env(safe-area-inset-top) + 5.65%);
-  z-index: 3;
-  width: 30.9%;
-}
-
-.home-title-image {
-  left: 9.9%;
-  top: calc(env(safe-area-inset-top) + 11.05%);
-  z-index: 3;
-  width: 80.3%;
-}
-
-.home-arrow-image {
-  left: 10.3%;
-  top: calc(env(safe-area-inset-top) + 33.65%);
-  z-index: 5;
-  width: 52.2%;
-}
-
-.home-hand-image {
-  left: 6.6%;
-  top: calc(env(safe-area-inset-top) + 50.45%);
-  z-index: 5;
-  width: 25.8%;
+.home-reference-image {
+  inset: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 .home-vending-link {
   position: absolute;
-  left: 10.8%;
-  top: calc(env(safe-area-inset-top) + 31.15%);
+  left: 0;
+  top: 32.9%;
   z-index: 2;
   display: block;
-  width: 117.2%;
+  width: 100%;
+  height: 60.2%;
   color: transparent;
   text-decoration: none;
-}
-
-.home-vending-image {
-  position: relative !important;
-  width: 100%;
 }
 
 .home-vending-link span {
@@ -120,43 +93,6 @@ a {
   overflow: hidden;
   clip: rect(0 0 0 0);
   white-space: nowrap;
-}
-
-.home-fitvend-logo {
-  left: 31.2%;
-  bottom: calc(env(safe-area-inset-bottom) + 7.35%);
-  z-index: 4;
-  width: 37.6%;
-}
-
-@media (max-aspect-ratio: 9 / 19) {
-  .home-ddx-logo {
-    top: calc(env(safe-area-inset-top) + 5.15%);
-  }
-
-  .home-arrow-image {
-    top: calc(env(safe-area-inset-top) + 32.85%);
-  }
-
-  .home-vending-link {
-    top: calc(env(safe-area-inset-top) + 30.35%);
-  }
-
-  .home-hand-image {
-    top: calc(env(safe-area-inset-top) + 49.65%);
-  }
-}
-
-@media (max-width: 360px) {
-  .home-title-image {
-    left: 8.9%;
-    width: 82.1%;
-  }
-
-  .home-vending-link {
-    left: 8.8%;
-    width: 121%;
-  }
 }
 
 .catalog-page {
