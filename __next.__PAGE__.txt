@@ -1,11 +1,6 @@
 1:"$Sreact.fragment"
 2:I[97367,["./_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-:HL["/assets/home-ddx-logo.webp","image"]
-:HL["/assets/home-title.webp","image"]
-:HL["/assets/home-arrow.webp","image"]
-:HL["/assets/home-hand-icon.webp","image"]
-:HL["/assets/vending.webp","image"]
-:HL["/assets/home-fitvend-logo.webp","image"]
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"home-page","aria-label":"Ассортимент вендинга","children":["$","div",null,{"className":"home-artboard","children":[["$","img",null,{"src":"/assets/home-ddx-logo.webp","alt":"DDX Fitness","className":"home-ddx-logo"}],["$","img",null,{"src":"/assets/home-title.webp","alt":"Ассортимент вендинга","className":"home-title-image"}],["$","img",null,{"src":"/assets/home-arrow.webp","alt":"Тыкни сюда","className":"home-arrow-image"}],["$","img",null,{"src":"/assets/home-hand-icon.webp","alt":"","className":"home-hand-image","aria-hidden":"true"}],["$","a",null,{"href":"/catalog","className":"home-vending-link","aria-label":"Перейти к списку товаров","children":[["$","img",null,{"src":"/assets/vending.webp","alt":"Вендинговый аппарат Fitvend","className":"home-vending-image"}],["$","span",null,{"children":"Перейти к списку товаров"}]]}],["$","img",null,{"src":"/assets/home-fitvend-logo.webp","alt":"Fitvend","className":"home-fitvend-logo"}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gJhxJA8MsA9RyfguzFw4g"}
+:HL["/assets/home-reference.jpeg","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"home-page","aria-label":"Ассортимент вендинга","children":["$","div",null,{"className":"home-artboard","children":[["$","img",null,{"src":"/assets/home-reference.jpeg","alt":"","className":"home-reference-image","aria-hidden":"true"}],["$","a",null,{"href":"/catalog","className":"home-vending-link","aria-label":"Перейти к списку товаров","children":["$","span",null,{"children":"Перейти к списку товаров"}]}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FHibQrI96hdjNxvIyz7Y4"}
 4:null
