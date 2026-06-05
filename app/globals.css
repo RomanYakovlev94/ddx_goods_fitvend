@@ -67,40 +67,40 @@ a {
 }
 
 .home-ddx-logo {
-  left: 35.5%;
+  left: 35.1%;
   top: 8.18%;
   z-index: 3;
-  width: 32.8%;
+  width: 33.6%;
 }
 
 .home-title-image {
-  left: 7.2%;
+  left: 7%;
   top: 12.66%;
   z-index: 3;
-  width: 86.7%;
+  width: 87.2%;
 }
 
 .home-arrow-image {
-  left: 10.3%;
-  top: 34.85%;
+  left: 10.46%;
+  top: 36.33%;
   z-index: 5;
-  width: 52.2%;
+  width: 52%;
 }
 
 .home-hand-image {
-  left: 5.1%;
-  top: 53.65%;
+  left: 4.46%;
+  top: 53.9%;
   z-index: 5;
-  width: 25.8%;
+  width: 26.5%;
 }
 
 .home-vending-link {
   position: absolute;
-  left: 0;
-  top: 34.2%;
+  left: 8%;
+  top: 34%;
   z-index: 2;
   display: block;
-  width: 124%;
+  width: 114%;
   color: transparent;
   text-decoration: none;
 }
@@ -121,10 +121,10 @@ a {
 }
 
 .home-fitvend-logo {
-  left: 10.8%;
-  bottom: 5.75%;
+  left: 10.4%;
+  bottom: 5.45%;
   z-index: 4;
-  width: 40.3%;
+  width: 41.3%;
 }
 
 .catalog-page {
