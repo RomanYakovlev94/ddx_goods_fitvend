@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 const CATALOG_MENU_ITEMS = [
   {
@@ -107,8 +107,16 @@ function CatalogFilterControls() {
 }
 
 function CatalogMenu() {
+  const menuRef = useRef(null);
+
+  const closeMenu = () => {
+    window.requestAnimationFrame(() => {
+      menuRef.current?.removeAttribute("open");
+    });
+  };
+
   return (
-    <details className="catalog-menu">
+    <details className="catalog-menu" ref={menuRef}>
       <summary className="catalog-menu-toggle" aria-label="Открыть меню категорий">
         <span />
         <span />
@@ -122,6 +130,7 @@ function CatalogMenu() {
             className="catalog-menu-item"
             data-category={item.label}
             htmlFor={item.controlId}
+            onClick={closeMenu}
           >
             {item.label}
           </label>
@@ -132,11 +141,39 @@ function CatalogMenu() {
 }
 
 function ProductCard({ product, onOpen }) {
+  const pointerStartRef = useRef(null);
   const title = getProductTitle(product);
   const subcategoryClass = `subcategory-${getSubcategorySlug(product.subcategory?.name)}`;
 
+  const handlePointerDown = (event) => {
+    pointerStartRef.current = {
+      x: event.clientX,
+      y: event.clientY,
+    };
+  };
+
+  const handlePointerUp = (event) => {
+    if (!pointerStartRef.current) {
+      return;
+    }
+
+    const deltaX = Math.abs(event.clientX - pointerStartRef.current.x);
+    const deltaY = Math.abs(event.clientY - pointerStartRef.current.y);
+    pointerStartRef.current = null;
+
+    if (deltaX <= 8 && deltaY <= 8) {
+      onOpen();
+    }
+  };
+
   return (
-    <button type="button" className={`good-card ${subcategoryClass}`} onClick={onOpen}>
+    <button
+      type="button"
+      className={`good-card ${subcategoryClass}`}
+      onPointerDown={handlePointerDown}
+      onPointerUp={handlePointerUp}
+      onClick={onOpen}
+    >
       <div className="good-image-frame">
         <img src={product.img_path} alt={title} className="good-image" loading="lazy" />
       </div>
