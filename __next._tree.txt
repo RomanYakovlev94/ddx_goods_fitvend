@@ -1,4 +1,4 @@
-:HL["./_next/static/chunks/13u6yioy738u8.css","style"]
+:HL["./_next/static/chunks/06e.etyjaad_..css","style"]
 :HC["/",""]
 :HL["/assets/home-ddx-logo.webp","image"]
 :HL["/assets/home-title.webp","image"]
@@ -6,4 +6,4 @@
 :HL["/assets/home-hand-icon.webp","image"]
 :HL["/assets/vending.webp","image"]
 :HL["/assets/home-fitvend-logo.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"7AmE0BgMVReccYBEVit0j"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"slcp20a6R75_lJH2HjPBs"}
