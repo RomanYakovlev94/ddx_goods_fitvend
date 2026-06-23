@@ -26,8 +26,77 @@ const CATALOG_MENU_ITEMS = [
   },
 ];
 
+const APPARATUS_QUERY_KEYS = ["apparatusId", "apparatus_id", "id"];
+const PUBLIC_ASSORTMENT_ENDPOINT = "https://vd.fitvend.fit/api/listing/public-assortment";
+const PUBLIC_ASSORTMENT_TOKEN = "nwPoeP7n3h7l1DAieq+CnTK3gVqmSPJUWWI4rQtRpBQ=";
+const UUID_PATTERN = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+
 export default function CatalogClient({ products }) {
   const [selectedProduct, setSelectedProduct] = useState(null);
+  const [catalogState, setCatalogState] = useState({
+    message: "Загружаем ассортимент",
+    products: [],
+    status: "loading",
+  });
+
+  useEffect(() => {
+    const apparatusId = getApparatusIdFromSearch(window.location.search);
+
+    if (!apparatusId) {
+      queueCatalogStateUpdate(setCatalogState, {
+        message: "ID аппарата не передан",
+        products: [],
+        status: "error",
+      });
+      return undefined;
+    }
+
+    if (!isUuid(apparatusId)) {
+      queueCatalogStateUpdate(setCatalogState, {
+        message: "Некорректный ID аппарата",
+        products: [],
+        status: "error",
+      });
+      return undefined;
+    }
+
+    const controller = new AbortController();
+
+    fetch(`${PUBLIC_ASSORTMENT_ENDPOINT}/${encodeURIComponent(apparatusId)}`, {
+      headers: {
+        Authorization: `Bearer ${PUBLIC_ASSORTMENT_TOKEN}`,
+      },
+      signal: controller.signal,
+    })
+      .then(async (response) => {
+        if (!response.ok) {
+          throw new PublicAssortmentError(response.status);
+        }
+
+        const productIds = normalizeAssortmentIds(await response.json());
+        const allowedIds = new Set(productIds);
+        const filteredProducts = products.filter((product) => allowedIds.has(normalizeId(product.id)));
+
+        setCatalogState({
+          message: filteredProducts.length ? "" : "В этом аппарате нет доступных товаров",
+          products: filteredProducts,
+          status: filteredProducts.length ? "ready" : "empty",
+        });
+      })
+      .catch((error) => {
+        if (error.name === "AbortError") {
+          return;
+        }
+
+        setCatalogState({
+          message: getPublicAssortmentErrorMessage(error),
+          products: [],
+          status: "error",
+        });
+      });
+
+    return () => controller.abort();
+  }, [products]);
 
   useEffect(() => {
     if (!selectedProduct) {
@@ -55,15 +124,19 @@ export default function CatalogClient({ products }) {
       <CatalogFilterControls />
       <CatalogMenu />
 
-      <section className="goods-grid" aria-label="Список товаров">
-        {products.map((product) => (
-          <ProductCard
-            key={product.id}
-            product={product}
-            onOpen={() => setSelectedProduct(product)}
-          />
-        ))}
-      </section>
+      {catalogState.products.length ? (
+        <section className="goods-grid" aria-label="Список товаров">
+          {catalogState.products.map((product) => (
+            <ProductCard
+              key={product.id}
+              product={product}
+              onOpen={() => setSelectedProduct(product)}
+            />
+          ))}
+        </section>
+      ) : (
+        <CatalogStateMessage message={catalogState.message} status={catalogState.status} />
+      )}
 
       {selectedProduct ? (
         <ProductModal product={selectedProduct} onClose={() => setSelectedProduct(null)} />
@@ -137,6 +210,14 @@ function CatalogMenu() {
         ))}
       </nav>
     </details>
+  );
+}
+
+function CatalogStateMessage({ message, status }) {
+  return (
+    <section className={`catalog-state catalog-state-${status}`} aria-live="polite">
+      {message}
+    </section>
   );
 }
 
@@ -299,6 +380,67 @@ function cleanInfoText(value, fieldName) {
   }
 
   return text;
+}
+
+function getApparatusIdFromSearch(search) {
+  const params = new URLSearchParams(search);
+
+  for (const key of APPARATUS_QUERY_KEYS) {
+    const value = params.get(key)?.trim();
+
+    if (value) {
+      return value;
+    }
+  }
+
+  return "";
+}
+
+function queueCatalogStateUpdate(setCatalogState, nextState) {
+  window.queueMicrotask(() => setCatalogState(nextState));
+}
+
+function normalizeAssortmentIds(value) {
+  if (!Array.isArray(value)) {
+    throw new PublicAssortmentError(0);
+  }
+
+  return value
+    .filter((id) => typeof id === "string" && isUuid(id))
+    .map((id) => normalizeId(id));
+}
+
+function normalizeId(value) {
+  return String(value ?? "").trim().toLowerCase();
+}
+
+function isUuid(value) {
+  return UUID_PATTERN.test(String(value ?? "").trim());
+}
+
+function getPublicAssortmentErrorMessage(error) {
+  if (error instanceof PublicAssortmentError) {
+    switch (error.status) {
+      case 400:
+        return "Некорректный ID аппарата";
+      case 401:
+        return "Нет доступа к ассортименту";
+      case 404:
+        return "Аппарат не найден";
+      default:
+        return "Не удалось загрузить ассортимент";
+    }
+  }
+
+  return "Не удалось загрузить ассортимент";
+}
+
+class PublicAssortmentError extends Error {
+  constructor(status) {
+    super(`Public assortment request failed with status ${status}`);
+    this.name = "PublicAssortmentError";
+    this.status = status;
+  }
 }
 
 function getSubcategorySlug(subcategoryName) {
