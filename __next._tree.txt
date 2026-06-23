@@ -1,9 +1,3 @@
-:HL["./_next/static/chunks/033shqfg7q2-g.css","style"]
+:HL["./_next/static/chunks/0lz1zm4_q64qq.css","style"]
 :HC["/",""]
-:HL["/assets/home-ddx-logo.webp","image"]
-:HL["/assets/home-title.webp","image"]
-:HL["/assets/home-arrow.webp","image"]
-:HL["/assets/home-hand-icon.webp","image"]
-:HL["/assets/vending.webp","image"]
-:HL["/assets/home-fitvend-logo.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"YRswQCBGncltHmDfhFHcT"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"-aUFsZLqXXmYD8cLQ5Evm"}
